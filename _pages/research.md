@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ## Published Research
-**[Racial differences in parent response to COVID schooling policies](https://micah-baum.github.io/files/baum-jacob-pnas-2024.pdf)** (with Brian A. Jacob). <br>
+**[Racial differences in parent response to COVID schooling policies](https://micah-baum.github.io/files/baum-jacob-pnas-2024.pdf)** (with Brian A. Jacob) <br>
 _Proceedings of the National Academy of Sciences_, 2024. <br>
 Presented at: AEFP 2023. 
 <details> <summary>Abstract</summary>  
@@ -22,7 +22,7 @@ This paper examines whether school COVID-19 policies influenced enrollment diffe
 
 
 ## Work in Progress
-### Direct and Indirect Effects of New Housing on Neighborhood Gentrification. <br>
+**Direct and Indirect Effects of New Housing on Neighborhood Gentrification** <br>
 _Peter Eckstein Prize for Interdisciplinary Research and Policy Analysis_, 2024. <br>
 Presented at: AREUEA 2024. 
 <details> <summary>Abstract</summary>  
