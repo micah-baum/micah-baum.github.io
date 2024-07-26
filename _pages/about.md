@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Micah Y. Baum"
 author_profile: true
 redirect_from: 
   - /about/
