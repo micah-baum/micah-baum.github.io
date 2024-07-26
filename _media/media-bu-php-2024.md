@@ -2,7 +2,7 @@
 title: "How COVID-19 Affected U.S. Public School Enrollments"
 collection: media
 type: "Media"
-mediaurl: https://www.pnas.org/post/podcast/school-enrollment-during-covid-19-pandemic](https://publichealthpost.org/health-equity/how-covid-19-affected-u-s-public-school-enrollments/
+mediaurl: https://publichealthpost.org/health-equity/how-covid-19-affected-u-s-public-school-enrollments/
 venue: "PNAS Science Sessions Podcast"
 date: 2024-06-03
 ---
