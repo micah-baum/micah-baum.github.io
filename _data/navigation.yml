@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/
+    url: /research
 
   - title: "CV"
-    url: /files/baum_cv.pdf/    
+    url: /files/baum_cv.pdf    
 
   - title: "Media"
-    url: /media/    
+    url: /media/   
     
   - title: "About Me"
-    url: /about-me/
+    url: /about-me
