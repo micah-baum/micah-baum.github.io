@@ -2,7 +2,7 @@
 title: "School enrollment during the COVID-19 pandemic"
 collection: media
 type: "Media"
-permalink: /media/media-pnas-podcast-2024
+mediaurl: https://www.pnas.org/post/podcast/school-enrollment-during-covid-19-pandemic
 venue: "PNAS Science Sessions Podcast"
 date: 2024-06-03
 ---
