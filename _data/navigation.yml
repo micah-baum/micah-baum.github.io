@@ -2,12 +2,18 @@
 main:
   - title: "Research"
     url: /research
-
+    
+  - title: "Published Research"
+    url: /research-published
+     
+  - title: "Research In Progress"
+    url: /research-in-progress
+    
   - title: "CV"
     url: /files/baum_cv.pdf    
 
   - title: "Media"
-    url: /media/   
+    url: /media   
     
   - title: "About Me"
     url: /about-me
