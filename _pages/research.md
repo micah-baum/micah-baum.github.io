@@ -13,7 +13,7 @@ author_profile: true
 
 ## Published Research
 [Racial differences in parent response to COVID schooling policies](https://micah-baum.github.io/files/baum-jacob-pnas-2024.pdf) 
-:  _Proceedings of the National Academy of Sciences_ (2024) 
+:    _Proceedings of the National Academy of Sciences_ (2024) 
 
 
 {% for post in site.research-published reversed %}
