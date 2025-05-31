@@ -11,7 +11,7 @@ I am a 4th-year PhD student in Public Policy & Economics at the University of Mi
 
 After graduating, I moved to Baltimore, where I worked as a researcher at the Johns Hopkins Bloomberg School of Public Health for three years. I have spent two years volunteering in urban public schools with AmeriCorps, as a City Year corps member in Columbus, Ohio (2013-14) and a Literacy Lab member in Baltimore, Maryland (2020-21). 
 
-At Michigan, my primary fields in economics are labor and public finance. My research focuses on on the role of public policy in improving the economic outcomes and lived experiences of disadvantaged members of society, particularly children. 
+At Michigan, my primary fields in economics are labor and public finance. My research focuses on how social environments affect children and college students, with a particular interest in socioeconomic inequality. 
 
 In my free time, you can find me on a run or hike, baking, or watching Arsenal Football Club. 
 
