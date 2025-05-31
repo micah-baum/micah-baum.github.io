@@ -21,7 +21,8 @@ This paper examines whether school COVID-19 policies influenced enrollment diffe
 </details>
 
 **Forging a path to college persistence: An experimental evaluation of the Detroit Promise Path program** (with Stacey L. Brockman, Jasmina Camo-Biogradlija, Alyssa Ratledge, Rebekah O’Donoghue, and Brian A. Jacob) <br>
-_Educational Evaluation and Policy Analysis_, 2024. \[[PDF](http://micah-baum.github.io/files/brockman-et-al-eepa-2024.pdf)\] <br>
+_Educational Evaluation and Policy Analysis_, 2024. <a href="http://micah-baum.github.io/files/brockman-et-al-eepa-2024.pdf" target="_blank">\[PDF\]</a>.
+
 <details> <summary>Abstract</summary>  
 Detroit students who obtain a college degree overcome many obstacles to do so. This article reports the results of a randomized evaluation of a program meant to provide support to low-income community college students. The Detroit Promise Path program was designed to complement an existing College Promise scholarship, providing students with coaching, summer engagement, and financial incentives. The evaluation found that students offered the program enrolled in more semesters and earned more credits compared with those offered the scholarship alone. However, at the 3-year mark, there were no discernable impacts on degrees earned. This article examines systemic barriers to degree completion and offers lessons for the design of interventions to increase equity in postsecondary attainment.
 </details>
