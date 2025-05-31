@@ -9,6 +9,7 @@ author_profile: true
   <div class="wordwrap">For additional information, see <a href="https://scholar.google.com/citations?user=xFVVMNoAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.
     
 {% endif %}
+
 {% include base_path %}
 
 ## Recent Publications
