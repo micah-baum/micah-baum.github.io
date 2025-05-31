@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Published Research
+## Recent Publications
 **Racial differences in parent response to COVID schooling policies** (with Brian A. Jacob) <br>
 _Proceedings of the National Academy of Sciences_, 2024. \[[PDF](https://micah-baum.github.io/files/baum-jacob-pnas-2024.pdf)\] <br>
 Presented at: Congressional Budget Office 2024, AEFP 2023. 
