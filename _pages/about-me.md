@@ -13,5 +13,5 @@ After graduating, I moved to Baltimore, where I worked as a researcher at the Jo
 
 At Michigan, my primary fields in economics are labor and public finance. My research focuses on how social environments affect children and college students, with a particular interest in socioeconomic inequality. 
 
-In my free time, you can find me on a run or hike, baking, or watching Arsenal Football Club. 
+In my free time, you can find me on walking my dog, baking, or watching Arsenal Football Club. 
 
