@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research
 author_profile: true
 ---
-For additional information, including a list of pre-doctoral publications, see my [CV](https://micah-baum.github.io/files/baum_cv.pdf) or my [Google Scholar profile](https://scholar.google.com/citations?user=xFVVMNoAAAAJ&hl=en&oi=ao).
+For additional information, including a list of pre-doctoral publications, see my <a href="https://micah-baum.github.io/files/baum_cv.pdf" target="_blank">CV</a> or my <a href="https://scholar.google.com/citations?user=xFVVMNoAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
 
 {% include base_path %}
 
