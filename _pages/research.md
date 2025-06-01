@@ -5,7 +5,7 @@ permalink: /research
 author_profile: true
 ---
 {% if site.author.googlescholar %}
-  <div class="wordwrap">For additional information, see <a href="{{site.author.googlescholar}}" target="_blank">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">For additional information, including a list of pre-doctoral publications, see my [CV](https://micah-baum.github.io/files/baum_cv.pdf) or my <a href="{{site.author.googlescholar}}" target="_blank">Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
