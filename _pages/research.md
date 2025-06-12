@@ -28,7 +28,7 @@ Detroit students who obtain a college degree overcome many obstacles to do so. T
 
 
 ## Work in Progress
-**When Do Children Benefit From Gentrification?** <br>
+**Is Upzoning Good for Children?** <br>
 _Peter Eckstein Prize for Interdisciplinary Research and Policy Analysis_, 2024. <br>
 Presented at: AREUEA 2024. 
 <details> <summary style="font-size: 95%;"> Abstract </summary> 
