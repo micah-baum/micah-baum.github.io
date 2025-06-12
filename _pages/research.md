@@ -31,11 +31,6 @@ Detroit students who obtain a college degree overcome many obstacles to do so. T
 **Is Upzoning Good for Children?** <br>
 _Peter Eckstein Prize for Interdisciplinary Research and Policy Analysis_, 2024. <br>
 Presented at: AREUEA 2024. 
-<details> <summary style="font-size: 95%;"> Abstract </summary> 
-    <div style="font-size: 90%;"> 
-In the last few decades, many urban neighborhoods have "gentrified,” experiencing increases in housing costs and amenities driven by immigration of high-income households. In this paper, I document whether incumbent low-income children benefit from gentrification, and study what drives these effects. I focus on neighborhood change occurring in downtown Houston, Texas, stemming from the city's 1998 downtown housing reform incentivizing construction of single-family homes. I first show that the reform caused downtown gentrification as high-income households moved into the area. Because local amenities improved, rents grew even as housing supply increased. Using Census microdata and administrative education and earnings data, I estimate propensity score-weighted difference-in-differences models to test whether this neighborhood change displaced incumbent renters and affected childrens' long-run educational and labor market outcomes. I find little evidence of displacement, due to the fact that renters and low-income households move frequently even in the absence of gentrification. Children exposed to gentrification were more likely to graduate from college and earn 5% more on average in their late 20s. Earnings effects are only present for children who remained in the treated area as it gentrified. Households avoid direct exposure to rent increases but children attend better schools with more socioeconomically advantaged families, potentially explaining these effects. 
-   </div>
-</details>
 
 **Do Faculty Affect Their Students' Political Beliefs?** (with Jos&eacute; Joaqu&iacute;n Endara Cevallos and Annaliese Paulson) <br> 
 
