@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Micah Y. Baum"
+title                    : "Micah Baum"
 title_separator          : "-"
 name                     : &name "Micah Y. Baum"
 description              : &description "personal description"
