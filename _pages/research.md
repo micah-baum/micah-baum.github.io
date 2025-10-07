@@ -32,7 +32,7 @@ Detroit students who obtain a college degree overcome many obstacles to do so. T
 _Peter Eckstein Prize for Interdisciplinary Research and Policy Analysis_, 2024. <br>
 Presented at: NTA Annual Conference 2025 (scheduled), AREUEA National Conference 2024. 
 
-**Do Faculty Affect Their Students' Political Beliefs?** (with Jos&eacute; Joaqu&iacute;n Endara Cevallos and Annaliese Paulson) <br> 
+**Do Faculty Affect Their Students' Political Beliefs?** (with Joaqu&iacute;n Endara and Annaliese Paulson) <br> 
 Presented at: APPAM Annual Conference 2025 (scheduled), AEA/ASSA Annual Meeting 2026 (scheduled). 
 
 **Peer Effects on Low-Income College Student Expectations and Achievement** (with Nikhil Rao) <br> 
