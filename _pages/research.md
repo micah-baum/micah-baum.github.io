@@ -30,8 +30,8 @@ Detroit students who obtain a college degree overcome many obstacles to do so. T
 ## Work in Progress
 **Is Upzoning Good for Children?** <br>
 Presented at: NTA Annual Conference 2025 (scheduled), AREUEA National Conference 2024. <br> 
-<span style="font-size:90%; _Peter Eckstein Prize for Interdisciplinary Research and Policy Analysis_, 2024. <br>
-_Outstanding Third Year Paper Award_, 2024. </span>
+<span style="font-size:85%; color:gray;">_Peter Eckstein Prize for Interdisciplinary Research and Policy Analysis_, 2024. <br>
+_Outstanding Third Year Paper Award_, 2024.</span> 
 
 **Do Faculty Affect Their Students' Political Beliefs?** <span style="font-size:85%; color:gray;">(with Joaqu&iacute;n Endara and Annaliese Paulson) </span>  <br> 
 Presented at: AEA/ASSA Annual Meeting 2026 (scheduled), APPAM Annual Conference 2025 (scheduled). 
