@@ -18,7 +18,7 @@ Presented at: Congressional Budget Office 2024, AEFP 2023.
    </div>
 </details>
 
-**Forging a path to college persistence: An experimental evaluation of the Detroit Promise Path program** (with Stacey L. Brockman, Jasmina Camo-Biogradlija, Alyssa Ratledge, Rebekah O’Donoghue, and Brian A. Jacob) <br>
+**Forging a path to college persistence: An experimental evaluation of the Detroit Promise Path program** <span style="font-size:85%; color:gray;">(with Stacey L. Brockman, Jasmina Camo-Biogradlija, Alyssa Ratledge, Rebekah O’Donoghue, and Brian A. Jacob)</span>  <br>
 _Educational Evaluation and Policy Analysis_, 2024. <a href="http://micah-baum.github.io/files/brockman-et-al-eepa-2024.pdf" target="_blank">\[PDF\]</a>
 <details> <summary style="font-size: 95%;"> Abstract </summary> 
     <div style="font-size: 90%;">
@@ -33,9 +33,9 @@ _Peter Eckstein Prize for Interdisciplinary Research and Policy Analysis_, 2024.
 _Outstanding Third Year Paper Award_, 2024. <br>
 Presented at: NTA Annual Conference 2025 (scheduled), AREUEA National Conference 2024. 
 
-**Do Faculty Affect Their Students' Political Beliefs?** (with Joaqu&iacute;n Endara and Annaliese Paulson) <br> 
+**Do Faculty Affect Their Students' Political Beliefs?** <span style="font-size:85%; color:gray;">(with Joaqu&iacute;n Endara and Annaliese Paulson) </span>  <br> 
 Presented at: AEA/ASSA Annual Meeting 2026 (scheduled), APPAM Annual Conference 2025 (scheduled). 
 
-**School Reporting Cultures** (with E. Jason Baron, Brian A. Jacob, Joseph Doyle, Maria Fitzpatrick, and Joseph Ryan) <br> 
+**School Reporting Cultures** <span style="font-size:85%; color:gray;">(with E. Jason Baron, Brian A. Jacob, Joseph Doyle, Maria Fitzpatrick, and Joseph Ryan) </span>  <br> 
 
-**Peer Effects on Low-Income College Student Expectations and Achievement** (with Nikhil Rao) <br> 
+**Peer Effects on Low-Income College Student Expectations and Achievement** <span style="font-size:85%; color:gray;">(with Nikhil Rao) </span>  <br> 
