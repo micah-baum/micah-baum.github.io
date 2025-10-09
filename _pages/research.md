@@ -35,7 +35,7 @@ _Outstanding Third Year Paper Award_, 2024. <br>
 Subsumes: "Distributional Effects of Homeownership Supply Expansions" </span> 
 
 **Do Faculty Affect Their Students' Political Beliefs?** <span style="font-size:85%; color:gray;">(with Joaqu&iacute;n Endara and Annaliese Paulson) </span>  <br> 
-Presented at: AEA/ASSA Annual Meeting 2026 (scheduled), APPAM Annual Conference 2025 (scheduled). 
+Presented at: AEA/ASSA Annual Meeting 2026 (scheduled), APPAM Fall Conference 2025 (scheduled). 
 
 **School Reporting Cultures** <span style="font-size:85%; color:gray;">(with E. Jason Baron, Brian A. Jacob, Joseph Doyle, Maria Fitzpatrick, and Joseph Ryan) </span>  <br> 
 
