@@ -30,6 +30,7 @@ Detroit students who obtain a college degree overcome many obstacles to do so. T
 ## Work in Progress
 **Is Upzoning Good for Children?** <br>
 _Peter Eckstein Prize for Interdisciplinary Research and Policy Analysis_, 2024. <br>
+_Outstanding Third Year Paper Award_, 2024. <br>
 Presented at: NTA Annual Conference 2025 (scheduled), AREUEA National Conference 2024. 
 
 **Do Faculty Affect Their Students' Political Beliefs?** (with Joaqu&iacute;n Endara and Annaliese Paulson) <br> 
