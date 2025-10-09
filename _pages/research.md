@@ -36,4 +36,6 @@ Presented at: NTA Annual Conference 2025 (scheduled), AREUEA National Conference
 **Do Faculty Affect Their Students' Political Beliefs?** (with Joaqu&iacute;n Endara and Annaliese Paulson) <br> 
 Presented at: AEA/ASSA Annual Meeting 2026 (scheduled), APPAM Annual Conference 2025 (scheduled). 
 
+**School Reporting Cultures** (with E. Jason Baron, Brian A. Jacob, Joseph Doyle, Maria Fitzpatrick, and Joseph Ryan) <br> 
+
 **Peer Effects on Low-Income College Student Expectations and Achievement** (with Nikhil Rao) <br> 
