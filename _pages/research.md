@@ -30,7 +30,7 @@ Detroit students who obtain a college degree overcome many obstacles to do so. T
 ## Work in Progress
 **When Opportunity Moves to You: Housing Deregulation and the Distribution of Child Outcomes** <br>
 Presented at: NTA Annual Conference 2025, AREUEA National Conference 2024. <br> 
-<span style="font-size:85%; color:gray;">_Peter Eckstein Prize for Interdisciplinary Research and Policy Analysis, Outstanding Third Year Paper Award_ <br> 
+<span style="font-size:85%; color:gray;"> _FSRDC Project #3114. Peter Eckstein Prize for Interdisciplinary Research and Policy Analysis, Outstanding Third Year Paper Award_ <br> 
 (subsumes "Distributional Effects of Homeownership Supply Expansions") </span> 
 
 **Do Faculty Affect Their Students' Political Beliefs?** <span style="font-size:85%; color:gray;">with Joaqu&iacute;n Endara and Annaliese Paulson </span>  <br> 
