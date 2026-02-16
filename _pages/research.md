@@ -33,8 +33,18 @@ Presented at: AEFP Annual Conference 2026 (scheduled), NTA Annual Conference 202
 <span style="font-size:85%; color:gray;"> _FSRDC Project #3114. 2024 Peter Eckstein Prize for Interdisciplinary Research and Policy Analysis, 2024 Outstanding Third Year Paper Award_ <br> </span> 
 
 **Do Faculty Affect Student Partisanship?** <span style="font-size:85%; color:gray;">with Joaqu&iacute;n Endara and Annaliese Paulson </span>  <br> 
-Presented at: AEA/ASSA Annual Meeting 2026, APPAM Fall Conference 2025. 
-
-**School Reporting Cultures** <span style="font-size:85%; color:gray;">with E. Jason Baron, Brian A. Jacob, Joseph Doyle, Maria Fitzpatrick, and Joseph Ryan </span>  <br> 
+Presented at: AEA/ASSA Annual Meeting 2026, APPAM Fall Conference 2025. <br> 
+<details> <summary style="font-size: 95%;"> Abstract </summary> 
+    <div style="font-size: 90%;">
+It is claimed that Democratic college professors cause their students to become more liberal. In this paper, we study whether there is scope for professors to do so. We link voter registration data to salary records from 33 state flagship universities to document the partisanship of college faculty and use transcript data from one flagship university to study the causal effect of instructors on student partisanship. College faculty are more likely to identify as Democrats than the country as a whole, especially in the humanities and social sciences. Students are mostly liberals when they enter college, become more liberal regardless of their major, and sort to courses where instructors share their political ideology. Exploiting plausibly random variation in when instructors teach a given course, we do not find a relationship between faculty partisanship and changes in student partisanship, and are able to rule out even small liberalizing effects, including when we restrict to courses in the humanities and social sciences. To understand these results, we study variation in the frequency of left-leaning course topics. Liberal-oriented topics are not featured at higher rates when departments have more Democrats or when Democratic instructors teach a given course, meaning student sorting leaves little room for indoctrination. 
+ </div>
+</details>
 
 **Peer Effects on Low-Income College Student Expectations and Achievement** <span style="font-size:85%; color:gray;">with Nikhil Rao </span>  <br> 
+<details> <summary style="font-size: 95%;"> Abstract </summary> 
+    <div style="font-size: 90%;">
+In this paper we examine how peers' socio-economic backgrounds affect the educational outcomes, experiences, and human capital investment decisions of low-income college students. Using random assignment of first-year roommates and administrative student records, we find that low-income first-year students randomly paired with very high-income roommates perform worse in terms of GPA than low-income students randomly paired with other types of room-mates, even after two years in college. To understand more about these patterns, we developed and piloted a survey of first-year undergraduate students. We find that low-income students spend relatively little time with their randomly assigned high-income roommates and are less likely to report that the roommate has helped them socially, academically, or with their career goals. Going forward, we are expanding the survey to further investigate mechanisms.
+   </div>
+</details>
+
+**School Reporting Cultures** <span style="font-size:85%; color:gray;">with E. Jason Baron, Brian A. Jacob, Joseph Doyle, Maria Fitzpatrick, and Joseph Ryan </span>  <br> 
