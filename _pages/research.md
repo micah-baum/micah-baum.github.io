@@ -29,7 +29,7 @@ Detroit students who obtain a college degree overcome many obstacles to do so. T
 
 ## Work in Progress
 **When Opportunity Moves to You: Housing Deregulation and the Distribution of Child Outcomes** <br>
-Presented at: AEFP Annual Conference 2026 (scheduled), NTA Annual Conference 2025, AREUEA National Conference 2024. <br> 
+Presented at: AEFP Annual Conference 2026, NTA Annual Conference 2025, AREUEA National Conference 2024. <br> 
 <span style="font-size:85%; color:gray;"> _FSRDC Project #3114. 2024 Peter Eckstein Prize for Interdisciplinary Research and Policy Analysis, 2024 Outstanding Third Year Paper Award_ <br> </span> 
 
 **Do Faculty Affect Student Partisanship?** <span style="font-size:85%; color:gray;">with Joaqu&iacute;n Endara and Annaliese Paulson </span> <br>
