@@ -4,6 +4,71 @@ title: "Research"
 permalink: /research
 author_profile: true
 ---
+
+<style>
+.paper-card {
+  border-left: 3px solid #52adc8;
+  padding-left: 1em;
+  margin-bottom: 2em;
+}
+.paper-card--wip {
+  border-left-color: #c0c4c8;
+}
+.paper-card p {
+  margin-top: 0;
+  margin-bottom: 0.4em;
+}
+.journal-name {
+  font-style: italic;
+  color: #2c6e49;
+}
+.coauthors {
+  font-size: 84%;
+  color: #7a8288;
+}
+.paper-link {
+  display: inline-block;
+  padding: 1px 10px;
+  border-radius: 12px;
+  font-size: 80%;
+  text-decoration: none;
+  margin-left: 4px;
+  color: #fff;
+  background: #52adc8;
+}
+.paper-link:visited { color: #fff; }
+.paper-link:hover { color: #fff; opacity: 0.8; text-decoration: none; }
+.paper-link--draft { background: #7a8288; }
+.award-badges { margin: 2px 0 6px; }
+.award-badge {
+  display: inline-block;
+  background: #f0f4ff;
+  color: #3a5a8a;
+  border: 1px solid #b0c4de;
+  border-radius: 10px;
+  font-size: 78%;
+  padding: 1px 8px;
+  margin: 2px 2px 2px 0;
+}
+.paper-abstract > summary {
+  cursor: pointer;
+  font-size: 90%;
+  color: #52adc8;
+  margin-top: 6px;
+  list-style: none;
+}
+.paper-abstract > summary::-webkit-details-marker { display: none; }
+.paper-abstract__body {
+  font-size: 88%;
+  color: #444;
+  margin-top: 6px;
+  padding: 8px 14px;
+  background: #f8f8f8;
+  border-radius: 4px;
+  line-height: 1.65;
+}
+</style>
+
 For additional information, including a list of pre-doctoral publications, see my <a href="https://micah-baum.github.io/files/baum_cv.pdf" target="_blank">CV</a> or my <a href="https://scholar.google.com/citations?user=xFVVMNoAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
 
 {% include base_path %}

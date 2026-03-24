@@ -4,6 +4,19 @@ title: "Media"
 permalink: /media
 author_profile: true
 ---
+
+<style>
+.media-item {
+  border-left: 3px solid #c0c4c8;
+  padding-left: 1em;
+  margin-bottom: 1.5em;
+}
+.media-outlet {
+  font-style: italic;
+  color: #2c6e49;
+}
+</style>
+
 {% include base_path %}
 
 <div class="media-item">

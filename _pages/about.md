@@ -1,18 +1,16 @@
 ---
 permalink: /
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Welcome! I am a 5th-year PhD student in Public Policy & Economics at the University of Michigan. 
+Welcome! I am a 5th-year PhD student in Public Policy & Economics at the University of Michigan.
 
-I study how public policy affects children and young adults, with a particular interest in economic inequality and political identity. My primary research fields are labor economics and public finance. 
+I study how public policy affects children and young adults, with a particular interest in economic inequality and political identity. My primary research fields are labor economics and public finance.
 
-I am a National Science Foundation (NSF) Graduate Research Fellow and an Institute of Education Sciences (IES) Pre-Doctoral Fellow. 
+I am a National Science Foundation (NSF) Graduate Research Fellow and an Institute of Education Sciences (IES) Pre-Doctoral Fellow.
 
-
-<a href="https://micah-baum.github.io/files/baum_cv.pdf" target="_blank" class="site-link-btn">CV</a> 
-
-<a href="https://scholar.google.com/citations?user=xFVVMNoAAAAJ&hl=en&oi=ao" target="_blank" class="site-link-btn">Google Scholar</a>
+<a href="https://micah-baum.github.io/files/baum_cv.pdf" target="_blank" style="display:inline-block; padding:3px 14px; border-radius:14px; font-size:90%; text-decoration:none; border:1px solid #52adc8; color:#52adc8; margin-right:6px;">CV</a>
+<a href="https://scholar.google.com/citations?user=xFVVMNoAAAAJ&hl=en&oi=ao" target="_blank" style="display:inline-block; padding:3px 14px; border-radius:14px; font-size:90%; text-decoration:none; border:1px solid #52adc8; color:#52adc8;">Google Scholar</a>
