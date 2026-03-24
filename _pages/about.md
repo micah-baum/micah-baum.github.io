@@ -13,5 +13,6 @@ I study how public policy affects children and young adults, with a particular i
 I am a National Science Foundation (NSF) Graduate Research Fellow and an Institute of Education Sciences (IES) Pre-Doctoral Fellow. 
 
 
-<a href="https://micah-baum.github.io/files/baum_cv.pdf" target="_blank" class="site-link-btn">CV</a>
+<a href="https://micah-baum.github.io/files/baum_cv.pdf" target="_blank" class="site-link-btn">CV</a> 
+
 <a href="https://scholar.google.com/citations?user=xFVVMNoAAAAJ&hl=en&oi=ao" target="_blank" class="site-link-btn">Google Scholar</a>
