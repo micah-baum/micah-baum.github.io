@@ -11,7 +11,6 @@ For additional information, including a list of pre-doctoral publications, see m
 ## Recent Publications
 **Racial differences in parent response to COVID schooling policies** <span style="font-size:85%; color:gray;">with Brian A. Jacob</span>  <br>
 _Proceedings of the National Academy of Sciences_, 2024. <a href="https://micah-baum.github.io/files/baum-jacob-pnas-2024.pdf" target="_blank">\[PDF\]</a> \
-Presented at: Congressional Budget Office 2024, AEFP 2023. 
 <details> <summary style="font-size: 95%;"> Abstract </summary> 
     <div style="font-size: 90%;">
   This paper examines whether school COVID-19 policies influenced enrollment differently by student age and race/ethnicity. Unlike much prior research, we i) analyze enrollments for virtually the entire U.S. public school population for both the 2020–2021 and 2021–2022 school years, ii) compare enrollment trends within districts in order to isolate subgroup heterogeneity from district characteristics, and iii) account for district selection into preferred learning modes. Analyzing data on over 9,000 districts that serve more than 90% of public school students in the United States, we find enrollment responses to COVID policies differed notably. We find that White enrollments declined more than Black, Hispanic, and Asian enrollments in districts that started the 2020–2021 school year virtually, but in districts that started in-person the reverse was true: Non-White enrollments declined more than White enrollments. Moreover, Black, Hispanic, and Asian families responded more than White families to higher COVID-19 death rates in the months preceding the start of the 2021 school year. In 2021–2022, enrollment differences by the previous year’s learning mode persisted. Racial/ethnic differences did not vary by whether the district required masking in classrooms. These findings are consistent with the greater risk faced by communities of color during the pandemic and demonstrate an additional source of disparate impact from COVID policies. 
@@ -29,8 +28,7 @@ Detroit students who obtain a college degree overcome many obstacles to do so. T
 
 ## Work in Progress
 **When Opportunity Moves to You: Housing Deregulation and the Distribution of Child Outcomes** <br>
-Presented at: AEFP Annual Conference 2026, NTA Annual Conference 2025, AREUEA National Conference 2024. <br> 
-<span style="font-size:85%; color:gray;"> _FSRDC Project #3114. 2025 Sarri Family Fellowship, 2024 Peter Eckstein Prize for Interdisciplinary Research and Policy Analysis, 2024 Outstanding Third Year Paper Award_ <br> </span> 
+<span style="font-size:85%; color:gray;"> _2025 Sarri Family Fellowship, 2024 Peter Eckstein Prize for Interdisciplinary Research and Policy Analysis, 2024 Outstanding Third Year Paper Award_ <br> </span> 
 <details> <summary style="font-size: 95%;"> Abstract </summary> 
     <div style="font-size: 90%;">
 A large literature documents the economic benefits of moving children to low-poverty neighborhoods. However, it is not clear if children will benefit when their current neighborhood improves while they are living there, especially for households paying market rents. I study how neighborhood revitalization affects incumbent children, focusing on a 1998 Houston housing reform that incentivized building single-family homes in the city’s downtown. I first show that the reform increased median household incomes by ten percent and rents by seven percent as affluent, college-educated households moved into these homes. Using administrative data from the US Census Bureau, I then study how redevelopment affected children’s long-run human capital attainment, economic self-sufficiency, and criminal justice involvement. Houston renters moved out of revitalized areas to avoid higher rents, meaning their children grew up in simi- lar neighborhoods as untreated individuals. In contrast, children of homeowners lived in better neighborhoods and their families’ home equity increased. Young renter children had worse labor market outcomes, suggestive of disruption costs, while owner children got more education and had greater economic self-sufficiency. Owner children were also charged with crimes at higher rates, consistent with greater police enforcement in gentrified areas. These findings demonstrate the limits of place-based policies in equitably expanding access to high-opportunity neighborhoods.
@@ -38,7 +36,6 @@ A large literature documents the economic benefits of moving children to low-pov
 </details>
 
 **Do Faculty Affect Student Partisanship?** <span style="font-size:85%; color:gray;">with Joaqu&iacute;n Endara and Annaliese Paulson </span> <br>
-Presented at: AEA/ASSA Annual Meeting 2026, APPAM Fall Conference 2025. <br> 
 <a href="https://micah-baum.github.io/files/baum-endara-paulson-partisanship-2026.pdf" target="_blank">\[Draft\]</a> <br> 
 <details> <summary style="font-size: 95%;"> Abstract </summary> 
     <div style="font-size: 90%;">
