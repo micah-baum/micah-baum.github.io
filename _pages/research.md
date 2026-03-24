@@ -7,65 +7,69 @@ author_profile: true
 
 <style>
 .paper-card {
-  border-left: 3px solid #52adc8;
+  border-left: 3px solid #4299e1;
   padding-left: 1em;
-  margin-bottom: 2em;
+  margin-bottom: 2.2em;
 }
 .paper-card--wip {
-  border-left-color: #c0c4c8;
+  border-left-color: #a0aec0;
 }
 .paper-card p {
   margin-top: 0;
-  margin-bottom: 0.4em;
+  margin-bottom: 0.35em;
 }
 .journal-name {
   font-style: italic;
-  color: #2c6e49;
+  color: #1a4a7a;
 }
 .coauthors {
+  font-family: 'DM Sans', sans-serif;
   font-size: 84%;
-  color: #7a8288;
+  color: #718096;
 }
 .paper-link {
   display: inline-block;
   padding: 1px 10px;
   border-radius: 12px;
+  font-family: 'DM Sans', sans-serif;
   font-size: 80%;
   text-decoration: none;
-  margin-left: 4px;
+  margin-left: 5px;
   color: #fff;
-  background: #52adc8;
+  background: #2b6cb0;
 }
 .paper-link:visited { color: #fff; }
-.paper-link:hover { color: #fff; opacity: 0.8; text-decoration: none; }
-.paper-link--draft { background: #7a8288; }
-.award-badges { margin: 2px 0 6px; }
+.paper-link:hover { color: #fff; opacity: 0.82; text-decoration: none; }
+.paper-link--draft { background: #718096; }
+.award-badges { margin: 3px 0 7px; }
 .award-badge {
   display: inline-block;
-  background: #f0f4ff;
-  color: #3a5a8a;
-  border: 1px solid #b0c4de;
+  background: #ebf8ff;
+  color: #2c5282;
+  border: 1px solid #bee3f8;
   border-radius: 10px;
+  font-family: 'DM Sans', sans-serif;
   font-size: 78%;
   padding: 1px 8px;
-  margin: 2px 2px 2px 0;
+  margin: 2px 3px 2px 0;
 }
 .paper-abstract > summary {
   cursor: pointer;
-  font-size: 90%;
-  color: #52adc8;
-  margin-top: 6px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 88%;
+  color: #2b6cb0;
+  margin-top: 7px;
   list-style: none;
 }
 .paper-abstract > summary::-webkit-details-marker { display: none; }
 .paper-abstract__body {
-  font-size: 88%;
-  color: #444;
+  font-size: 90%;
+  color: #4a5568;
   margin-top: 6px;
-  padding: 8px 14px;
-  background: #f8f8f8;
+  padding: 10px 14px;
+  background: #f0f4f8;
   border-radius: 4px;
-  line-height: 1.65;
+  line-height: 1.72;
 }
 </style>
 

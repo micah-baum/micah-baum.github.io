@@ -7,13 +7,18 @@ author_profile: true
 
 <style>
 .media-item {
-  border-left: 3px solid #c0c4c8;
+  border-left: 3px solid #a0aec0;
   padding-left: 1em;
-  margin-bottom: 1.5em;
+  margin-bottom: 1.6em;
+}
+.media-item strong {
+  font-family: 'Spectral', Georgia, serif;
 }
 .media-outlet {
+  font-family: 'DM Sans', sans-serif;
   font-style: italic;
-  color: #2c6e49;
+  font-size: 90%;
+  color: #1a4a7a;
 }
 </style>
 
