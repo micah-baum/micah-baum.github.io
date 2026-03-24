@@ -23,7 +23,7 @@ author_profile: true
   color: #1a4a7a;
 }
 .coauthors {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Spectral', Georgia, serif;
   font-size: 84%;
   color: #718096;
 }
@@ -31,7 +31,7 @@ author_profile: true
   display: inline-block;
   padding: 1px 10px;
   border-radius: 12px;
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Spectral', Georgia, serif;
   font-size: 80%;
   text-decoration: none;
   margin-left: 5px;
@@ -48,14 +48,14 @@ author_profile: true
   color: #2c5282;
   border: 1px solid #bee3f8;
   border-radius: 10px;
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Spectral', Georgia, serif;
   font-size: 78%;
   padding: 1px 8px;
   margin: 2px 3px 2px 0;
 }
 .paper-abstract > summary {
   cursor: pointer;
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Spectral', Georgia, serif;
   font-size: 88%;
   color: #2b6cb0;
   margin-top: 7px;

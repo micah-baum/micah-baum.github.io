@@ -15,7 +15,7 @@ author_profile: true
   font-family: 'Spectral', Georgia, serif;
 }
 .media-outlet {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Spectral', Georgia, serif;
   font-style: italic;
   font-size: 90%;
   color: #1a4a7a;
