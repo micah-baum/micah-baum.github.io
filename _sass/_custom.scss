@@ -9,6 +9,11 @@
   border-left: 3px solid $info-color;
   padding-left: 1em;
   margin-bottom: 2em;
+
+  p {
+    margin-top: 0;
+    margin-bottom: 0.4em;
+  }
 }
 
 .paper-card--wip {
