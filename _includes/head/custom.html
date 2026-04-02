@@ -39,9 +39,30 @@
 html, body, .page__footer {
   background-color: #f9f7f4;
 }
+html {
+  overflow-x: hidden;
+}
 body {
   font-family: 'Spectral', Georgia, serif;
   color: #2d3748;
+  overflow-x: hidden;
+  max-width: 100%;
+}
+img, table, pre, iframe, video {
+  max-width: 100% !important;
+}
+.page, .page__inner-wrap, .page__content, .initial-content {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100% !important;
+  }
+  .page {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
 }
 .page__footer {
   border-top: none;
