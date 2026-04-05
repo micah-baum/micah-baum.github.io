@@ -39,29 +39,21 @@
 html, body, .page__footer {
   background-color: #f9f7f4;
 }
-html {
-  overflow-x: hidden;
-}
 body {
   font-family: 'Spectral', Georgia, serif;
   color: #2d3748;
-  overflow-x: hidden;
-  max-width: 100%;
 }
 img, table, pre, iframe, video {
   max-width: 100% !important;
 }
-.page, .page__inner-wrap, .page__content, .initial-content {
-  max-width: 100%;
+#main, .initial-content, .page__inner-wrap {
   box-sizing: border-box;
+  min-width: 0;
 }
 @media (max-width: 768px) {
-  .sidebar {
-    width: 100% !important;
-  }
   .page {
-    padding-left: 1em;
-    padding-right: 1em;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
   }
 }
 .page__footer {
