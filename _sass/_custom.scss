@@ -2,6 +2,33 @@
    Custom styles for Micah Baum's academic website
    ========================================================================== */
 
+/* ── Flex-based sidebar + content layout (replaces broken Susy/float layout) ── */
+@media screen and (min-width: 1024px) {
+  #main {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .sidebar {
+    flex: 0 0 240px;
+    width: 240px;
+    min-width: 0;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    float: none !important;
+  }
+
+  .archive,
+  .page {
+    flex: 1 1 auto;
+    min-width: 0;
+    float: none !important;
+    width: auto !important;
+    margin-left: 1.5em;
+  }
+}
+
 /* Paper / entry cards
    ========================================================================== */
 
