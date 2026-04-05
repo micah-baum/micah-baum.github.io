@@ -50,10 +50,11 @@ img, table, pre, iframe, video {
   box-sizing: border-box;
   min-width: 0;
 }
-@media (max-width: 768px) {
-  .page {
-    padding-left: 1em !important;
-    padding-right: 1em !important;
+/* Push content right to clear the fixed sidebar (kicks in at same breakpoint as sidebar) */
+@media screen and (min-width: 1024px) {
+  #main .archive,
+  #main .page {
+    padding-left: 270px;
   }
 }
 .page__footer {
