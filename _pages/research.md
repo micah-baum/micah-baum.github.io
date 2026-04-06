@@ -4,50 +4,129 @@ title: "Research"
 permalink: /research
 author_profile: true
 ---
+
+<style>
+.paper-card {
+  border-left: 3px solid #4299e1;
+  padding-left: 1em;
+  margin-bottom: 2.2em;
+}
+.paper-card--wip {
+  border-left-color: #a0aec0;
+}
+.paper-card p {
+  margin-top: 0;
+  margin-bottom: 0.35em;
+}
+.journal-name {
+  font-style: italic;
+  color: #1a4a7a;
+}
+.coauthors {
+  font-family: 'Spectral', Georgia, serif;
+  font-size: 84%;
+  color: #718096;
+}
+.paper-link {
+  display: inline-block;
+  padding: 1px 10px;
+  border-radius: 12px;
+  font-family: 'Spectral', Georgia, serif;
+  font-size: 80%;
+  text-decoration: none;
+  margin-left: 5px;
+  color: #fff;
+  background: #2b6cb0;
+}
+.paper-link:visited { color: #fff; }
+.paper-link:hover { color: #fff; opacity: 0.82; text-decoration: none; }
+.paper-link--draft { background: #718096; }
+.award-badges { margin: 3px 0 7px; }
+.award-badge {
+  display: inline-block;
+  background: #ebf8ff;
+  color: #2c5282;
+  border: 1px solid #bee3f8;
+  border-radius: 10px;
+  font-family: 'Spectral', Georgia, serif;
+  font-size: 78%;
+  padding: 1px 8px;
+  margin: 2px 3px 2px 0;
+}
+.paper-abstract > summary {
+  cursor: pointer;
+  font-family: 'Spectral', Georgia, serif;
+  font-size: 88%;
+  color: #2b6cb0;
+  margin-top: 7px;
+  list-style: none;
+}
+.paper-abstract > summary::-webkit-details-marker { display: none; }
+.paper-abstract__body {
+  font-size: 90%;
+  color: #4a5568;
+  margin-top: 6px;
+  padding: 10px 14px;
+  background: #f0f4f8;
+  border-radius: 4px;
+  line-height: 1.72;
+}
+</style>
+
 For additional information, including a list of pre-doctoral publications, see my <a href="https://micah-baum.github.io/files/baum_cv.pdf" target="_blank">CV</a> or my <a href="https://scholar.google.com/citations?user=xFVVMNoAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
 
 {% include base_path %}
 
 ## Recent Publications
-**Racial differences in parent response to COVID schooling policies** <span style="font-size:85%; color:gray;">with Brian A. Jacob</span>  <br>
-_Proceedings of the National Academy of Sciences_, 2024. <a href="https://micah-baum.github.io/files/baum-jacob-pnas-2024.pdf" target="_blank">\[PDF\]</a> 
-<details> <summary style="font-size: 95%;"> Abstract </summary> 
-    <div style="font-size: 90%;">
-  This paper examines whether school COVID-19 policies influenced enrollment differently by student age and race/ethnicity. Unlike much prior research, we i) analyze enrollments for virtually the entire U.S. public school population for both the 2020–2021 and 2021–2022 school years, ii) compare enrollment trends within districts in order to isolate subgroup heterogeneity from district characteristics, and iii) account for district selection into preferred learning modes. Analyzing data on over 9,000 districts that serve more than 90% of public school students in the United States, we find enrollment responses to COVID policies differed notably. We find that White enrollments declined more than Black, Hispanic, and Asian enrollments in districts that started the 2020–2021 school year virtually, but in districts that started in-person the reverse was true: Non-White enrollments declined more than White enrollments. Moreover, Black, Hispanic, and Asian families responded more than White families to higher COVID-19 death rates in the months preceding the start of the 2021 school year. In 2021–2022, enrollment differences by the previous year’s learning mode persisted. Racial/ethnic differences did not vary by whether the district required masking in classrooms. These findings are consistent with the greater risk faced by communities of color during the pandemic and demonstrate an additional source of disparate impact from COVID policies. 
-   </div>
-</details>
 
-**Forging a path to college persistence: An experimental evaluation of the Detroit Promise Path program** <span style="font-size:85%; color:gray;">with Stacey L. Brockman, Jasmina Camo-Biogradlija, Alyssa Ratledge, Rebekah O’Donoghue, and Brian A. Jacob</span>  <br>
-_Educational Evaluation and Policy Analysis_, 2024. <a href="http://micah-baum.github.io/files/brockman-et-al-eepa-2024.pdf" target="_blank">\[PDF\]</a>
-<details> <summary style="font-size: 95%;"> Abstract </summary> 
-    <div style="font-size: 90%;">
-Detroit students who obtain a college degree overcome many obstacles to do so. This article reports the results of a randomized evaluation of a program meant to provide support to low-income community college students. The Detroit Promise Path program was designed to complement an existing College Promise scholarship, providing students with coaching, summer engagement, and financial incentives. The evaluation found that students offered the program enrolled in more semesters and earned more credits compared with those offered the scholarship alone. However, at the 3-year mark, there were no discernable impacts on degrees earned. This article examines systemic barriers to degree completion and offers lessons for the design of interventions to increase equity in postsecondary attainment.
-   </div>
+<div class="paper-card">
+<p><strong>Racial differences in parent response to COVID schooling policies</strong> <span class="coauthors">with Brian A. Jacob</span><br>
+<span class="journal-name">Proceedings of the National Academy of Sciences</span>, 2024.
+<a href="https://micah-baum.github.io/files/baum-jacob-pnas-2024.pdf" target="_blank" class="paper-link">PDF</a></p>
+<details class="paper-abstract">
+<summary>Abstract</summary>
+<div class="paper-abstract__body">This paper examines whether school COVID-19 policies influenced enrollment differently by student age and race/ethnicity. Unlike much prior research, we i) analyze enrollments for virtually the entire U.S. public school population for both the 2020–2021 and 2021–2022 school years, ii) compare enrollment trends within districts in order to isolate subgroup heterogeneity from district characteristics, and iii) account for district selection into preferred learning modes. Analyzing data on over 9,000 districts that serve more than 90% of public school students in the United States, we find enrollment responses to COVID policies differed notably. We find that White enrollments declined more than Black, Hispanic, and Asian enrollments in districts that started the 2020–2021 school year virtually, but in districts that started in-person the reverse was true: Non-White enrollments declined more than White enrollments. Moreover, Black, Hispanic, and Asian families responded more than White families to higher COVID-19 death rates in the months preceding the start of the 2021 school year. In 2021–2022, enrollment differences by the previous year's learning mode persisted. Racial/ethnic differences did not vary by whether the district required masking in classrooms. These findings are consistent with the greater risk faced by communities of color during the pandemic and demonstrate an additional source of disparate impact from COVID policies.</div>
 </details>
+</div>
 
+<div class="paper-card">
+<p><strong>Forging a path to college persistence: An experimental evaluation of the Detroit Promise Path program</strong> <span class="coauthors">with Stacey L. Brockman, Jasmina Camo-Biogradlija, Alyssa Ratledge, Rebekah O'Donoghue, and Brian A. Jacob</span><br>
+<span class="journal-name">Educational Evaluation and Policy Analysis</span>, 2024.
+<a href="http://micah-baum.github.io/files/brockman-et-al-eepa-2024.pdf" target="_blank" class="paper-link">PDF</a></p>
+<details class="paper-abstract">
+<summary>Abstract</summary>
+<div class="paper-abstract__body">Detroit students who obtain a college degree overcome many obstacles to do so. This article reports the results of a randomized evaluation of a program meant to provide support to low-income community college students. The Detroit Promise Path program was designed to complement an existing College Promise scholarship, providing students with coaching, summer engagement, and financial incentives. The evaluation found that students offered the program enrolled in more semesters and earned more credits compared with those offered the scholarship alone. However, at the 3-year mark, there were no discernable impacts on degrees earned. This article examines systemic barriers to degree completion and offers lessons for the design of interventions to increase equity in postsecondary attainment.</div>
+</details>
+</div>
 
 ## Work in Progress
-**When Opportunity Moves to You: Housing Deregulation and the Distribution of Child Outcomes** <br>
-<span style="font-size:85%; color:gray;"> _2025 Sarri Family Fellowship, 2024 Peter Eckstein Prize for Interdisciplinary Research, 2024 Outstanding Third Year Paper Award_ <br> </span> 
-<details> <summary style="font-size: 95%;"> Abstract </summary> 
-    <div style="font-size: 90%;">
-A large literature documents the economic benefits of moving children to low-poverty neighborhoods. However, it is not clear if children will benefit when their current neighborhood improves while they are living there, especially for households paying market rents. I study how neighborhood revitalization affects incumbent children, focusing on a 1998 Houston housing reform that incentivized building single-family homes in the city’s downtown. I first show that the reform increased median household incomes by ten percent and rents by seven percent as affluent, college-educated households moved into these homes. Using administrative data from the US Census Bureau, I then study how redevelopment affected children’s long-run human capital attainment, economic self-sufficiency, and criminal justice involvement. Houston renters moved out of revitalized areas to avoid higher rents, meaning their children grew up in simi- lar neighborhoods as untreated individuals. In contrast, children of homeowners lived in better neighborhoods and their families’ home equity increased. Young renter children had worse labor market outcomes, suggestive of disruption costs, while owner children got more education and had greater economic self-sufficiency. Owner children were also charged with crimes at higher rates, consistent with greater police enforcement in gentrified areas. These findings demonstrate the limits of place-based policies in equitably expanding access to high-opportunity neighborhoods.
- </div>
-</details>
 
-**Do Faculty Affect Student Partisanship?** <span style="font-size:85%; color:gray;">with Joaqu&iacute;n Endara and Annaliese Paulson </span> <br>
-<a href="https://micah-baum.github.io/files/baum-endara-paulson-partisanship-2026.pdf" target="_blank">\[Draft\]</a> <br> 
-<details> <summary style="font-size: 95%;"> Abstract </summary> 
-    <div style="font-size: 90%;">
-It is claimed that Democratic college professors cause their students to become more liberal. In this paper, we study whether there is scope for professors to do so. We link voter registration data to salary records from 33 state flagship universities to document the partisanship of college faculty and use transcript data from one flagship university to study the causal effect of instructors on student partisanship. College faculty are more likely to identify as Democrats than the country as a whole, especially in the humanities and social sciences. Students are mostly liberals when they enter college, become more liberal regardless of their major, and sort to courses where instructors share their political ideology. Exploiting plausibly random variation in when instructors teach a given course, we do not find a relationship between faculty partisanship and changes in student partisanship, and are able to rule out even small liberalizing effects, including when we restrict to courses in the humanities and social sciences. To understand these results, we study variation in the frequency of left-leaning course topics. Liberal-oriented topics are not featured at higher rates when departments have more Democrats or when Democratic instructors teach a given course, meaning student sorting leaves little room for indoctrination. 
- </div>
+<div class="paper-card paper-card--wip">
+<p><strong>When Opportunity Moves to You: Housing Deregulation and the Distribution of Child Outcomes</strong></p>
+<div class="award-badges"><span class="award-badge">2025 Sarri Family Fellowship</span> <span class="award-badge">2024 Peter Eckstein Prize for Interdisciplinary Research</span> <span class="award-badge">2024 Outstanding Third Year Paper Award</span></div>
+<details class="paper-abstract">
+<summary>Abstract</summary>
+<div class="paper-abstract__body">A large literature documents the economic benefits of moving children to low-poverty neighborhoods. However, it is not clear if children will benefit when their current neighborhood improves while they are living there, especially for households paying market rents. I study how neighborhood revitalization affects incumbent children, focusing on a 1998 Houston housing reform that incentivized building single-family homes in the city's downtown. I first show that the reform increased median household incomes by ten percent and rents by seven percent as affluent, college-educated households moved into these homes. Using administrative data from the US Census Bureau, I then study how redevelopment affected children's long-run human capital attainment, economic self-sufficiency, and criminal justice involvement. Houston renters moved out of revitalized areas to avoid higher rents, meaning their children grew up in similar neighborhoods as untreated individuals. In contrast, children of homeowners lived in better neighborhoods and their families' home equity increased. Young renter children had worse labor market outcomes, suggestive of disruption costs, while owner children got more education and had greater economic self-sufficiency. Owner children were also charged with crimes at higher rates, consistent with greater police enforcement in gentrified areas. These findings demonstrate the limits of place-based policies in equitably expanding access to high-opportunity neighborhoods.</div>
 </details>
+</div>
 
-**Peer Effects on Low-Income College Student Expectations and Achievement** <span style="font-size:85%; color:gray;">with Nikhil Rao </span>  <br> 
-<details> <summary style="font-size: 95%;"> Abstract </summary> 
-    <div style="font-size: 90%;">
-In this paper we examine how peers' socio-economic backgrounds affect the educational outcomes, experiences, and human capital investment decisions of low-income college students. Using random assignment of first-year roommates and administrative student records, we find that low-income first-year students randomly paired with very high-income roommates perform worse in terms of GPA than low-income students randomly paired with other types of room-mates, even after two years in college. To understand more about these patterns, we developed and piloted a survey of first-year undergraduate students. We find that low-income students spend relatively little time with their randomly assigned high-income roommates and are less likely to report that the roommate has helped them socially, academically, or with their career goals. Going forward, we are expanding the survey to further investigate mechanisms.
-   </div>
+<div class="paper-card paper-card--wip">
+<p><strong>Do Faculty Affect Student Partisanship?</strong> <span class="coauthors">with Joaqu&iacute;n Endara and Annaliese Paulson</span><br>
+<a href="https://micah-baum.github.io/files/baum-endara-paulson-partisanship-2026.pdf" target="_blank" class="paper-link paper-link--draft">Draft</a></p>
+<details class="paper-abstract">
+<summary>Abstract</summary>
+<div class="paper-abstract__body">It is claimed that Democratic college professors cause their students to become more liberal. In this paper, we study whether there is scope for professors to do so. We link voter registration data to salary records from 33 state flagship universities to document the partisanship of college faculty and use transcript data from one flagship university to study the causal effect of instructors on student partisanship. College faculty are more likely to identify as Democrats than the country as a whole, especially in the humanities and social sciences. Students are mostly liberals when they enter college, become more liberal regardless of their major, and sort to courses where instructors share their political ideology. Exploiting plausibly random variation in when instructors teach a given course, we do not find a relationship between faculty partisanship and changes in student partisanship, and are able to rule out even small liberalizing effects, including when we restrict to courses in the humanities and social sciences. To understand these results, we study variation in the frequency of left-leaning course topics. Liberal-oriented topics are not featured at higher rates when departments have more Democrats or when Democratic instructors teach a given course, meaning student sorting leaves little room for indoctrination.</div>
 </details>
+</div>
 
-**School Reporting Cultures** <span style="font-size:85%; color:gray;">with E. Jason Baron, Brian A. Jacob, Joseph Doyle, Maria Fitzpatrick, and Joseph Ryan </span>  <br> 
+<div class="paper-card paper-card--wip">
+<p><strong>Peer Effects on Low-Income College Student Expectations and Achievement</strong> <span class="coauthors">with Nikhil Rao</span></p>
+<details class="paper-abstract">
+<summary>Abstract</summary>
+<div class="paper-abstract__body">In this paper we examine how peers' socio-economic backgrounds affect the educational outcomes, experiences, and human capital investment decisions of low-income college students. Using random assignment of first-year roommates and administrative student records, we find that low-income first-year students randomly paired with very high-income roommates perform worse in terms of GPA than low-income students randomly paired with other types of roommates, even after two years in college. To understand more about these patterns, we developed and piloted a survey of first-year undergraduate students. We find that low-income students spend relatively little time with their randomly assigned high-income roommates and are less likely to report that the roommate has helped them socially, academically, or with their career goals. Going forward, we are expanding the survey to further investigate mechanisms.</div>
+</details>
+</div>
+
+<div class="paper-card paper-card--wip">
+<p><strong>School Reporting Cultures</strong> <span class="coauthors">with E. Jason Baron, Brian A. Jacob, Joseph Doyle, Maria Fitzpatrick, and Joseph Ryan</span></p>
+</div>
