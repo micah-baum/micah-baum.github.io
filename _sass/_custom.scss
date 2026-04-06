@@ -2,6 +2,15 @@
    Custom styles for Micah Baum's academic website
    ========================================================================== */
 
+/* Anchor fixed sidebar directly below masthead, removing the gap caused
+   by #main's margin-top pushing the sidebar's natural position down */
+@media screen and (min-width: $sidebar-screen-min-width) {
+  .sidebar {
+    top: $masthead-height;
+    padding-top: 1em;
+  }
+}
+
 /* Paper / entry cards
    ========================================================================== */
 
