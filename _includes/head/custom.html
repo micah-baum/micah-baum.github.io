@@ -45,10 +45,14 @@ html, body {
 .page__footer, .page__footer footer {
   background-color: #f9f7f4 !important;
 }
-/* Push footer below the fold on mobile */
+/* Spacer pushes footer below the fold on mobile */
+.mobile-footer-spacer {
+  display: none;
+}
 @media (max-width: 768px) {
-  .page__footer {
-    margin-top: 100vh;
+  .mobile-footer-spacer {
+    display: block;
+    height: 80vh;
   }
 }
 /* Mobile nav dropdown */
