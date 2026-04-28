@@ -45,6 +45,12 @@ html, body {
 .page__footer, .page__footer footer {
   background-color: #f9f7f4 !important;
 }
+/* Push footer below the fold on mobile */
+@media (max-width: 768px) {
+  #main {
+    padding-bottom: 60vh;
+  }
+}
 /* Mobile nav dropdown */
 .greedy-nav__toggle,
 .hidden-links,
