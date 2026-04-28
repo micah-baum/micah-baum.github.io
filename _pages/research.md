@@ -73,8 +73,6 @@ author_profile: true
 }
 </style>
 
-For additional information, including a list of pre-doctoral publications, see my <a href="https://micah-baum.github.io/files/baum_cv.pdf" target="_blank">CV</a> or my <a href="https://scholar.google.com/citations?user=xFVVMNoAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
-
 {% include base_path %}
 
 ## Recent Publications
@@ -130,3 +128,7 @@ For additional information, including a list of pre-doctoral publications, see m
 <div class="paper-card paper-card--wip">
 <p><strong>School Reporting Cultures</strong> <span class="coauthors">with E. Jason Baron, Brian A. Jacob, Joseph Doyle, Maria Fitzpatrick, and Joseph Ryan</span></p>
 </div>
+
+
+For additional information, including a list of pre-doctoral publications, see my <a href="https://micah-baum.github.io/files/baum_cv.pdf" target="_blank">CV</a> or my <a href="https://scholar.google.com/citations?user=xFVVMNoAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
+
