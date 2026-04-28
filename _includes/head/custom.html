@@ -21,7 +21,7 @@
 <meta name="msapplication-TileColor" content="#000000">
 <meta name="msapplication-TileImage" content="{{ base_path }}/images/mstile-144x144.png?v=M44lzPylqQ">
 <meta name="msapplication-config" content="{{ base_path }}/images/browserconfig.xml?v=M44lzPylqQ">
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="#f9f7f4">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
 
@@ -36,10 +36,20 @@
 
 <style>
 /* ── Global typography & palette ── */
-body {
+html, body {
   background-color: #f9f7f4;
   font-family: 'Spectral', Georgia, serif;
   color: #2d3748;
+}
+/* Footer */
+.page__footer, .page__footer footer {
+  background-color: #f9f7f4 !important;
+}
+/* Mobile nav dropdown */
+.greedy-nav__toggle,
+.hidden-links,
+.greedy-nav .hidden-links {
+  background-color: #f9f7f4 !important;
 }
 p, li, .page__content, .archive__item-excerpt {
   font-family: 'Spectral', Georgia, serif;
