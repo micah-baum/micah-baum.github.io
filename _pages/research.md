@@ -111,7 +111,7 @@ author_profile: true
 
 <div class="paper-card paper-card--wip">
 <p><strong>Do Faculty Affect Student Partisanship?</strong> <span class="coauthors">with Joaqu&iacute;n Endara and Annaliese Paulson</span><br>
-class="journal-name">Submitted. <a href="https://micah-baum.github.io/files/baum-endara-paulson-partisanship-2026.pdf" target="_blank" class="paper-link paper-link--draft">Draft</a></p>
+class="journal-name">Submitted.</span> <a href="https://micah-baum.github.io/files/baum-endara-paulson-partisanship-2026.pdf" target="_blank" class="paper-link paper-link--draft">Draft</a></p>
 <details class="paper-abstract">
 <summary>Abstract</summary>
 <div class="paper-abstract__body">We study whether Democratic college professors make their students more liberal. We link voter data to salary records from 33 state flagships and show that faculty skew Democratic, especially in the humanities and social sciences. We then use student transcripts from one flagship to estimate causal effects. Students become more liberal during college regardless of major and sort toward ideologically similar instructors. Exploiting plausibly random variation in when instructors teach courses, we find no effect of faculty partisanship on student partisanship. Text analysis shows exposure to liberal topics reflects student demand rather than instructor supply, leaving little room for indoctrination. </div>
