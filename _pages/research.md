@@ -101,7 +101,7 @@ author_profile: true
 
 <div class="paper-card paper-card--wip">
 <p><strong>When Opportunity Moves to You: Housing Deregulation and the Distribution of Child Outcomes</strong></p>
-<div class="award-badges"><span class="award-badge">2025 Sarri Family Fellowship</span> <span class="award-badge">2024 Peter Eckstein Prize for Interdisciplinary Research</span> <span class="award-badge">2024 Outstanding Third Year Paper Award</span></div>
+<div class="award-badges"><span class="award-badge">2025 Sarri Family Fellowship</span> <span class="award-badge">2024 Peter Eckstein Prize for Interdisciplinary Research</span> <span class="award-badge">2024 Outstanding Third Year Paper Award</span> <span class="award-badge">Honorable Mention for Best Paper, 2026 AREUEA National Conference</span></div>
 <span class="paper-link paper-link--draft" style="cursor:default; background:#a0aec0; font-style:italic;"><em>Job Market Paper. Draft Coming Soon!</em></span>
 <details class="paper-abstract">
 <summary>Abstract</summary>
