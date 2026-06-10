@@ -8,7 +8,7 @@ redirect_from:
 
 Welcome! I am a 5th-year PhD student in Public Policy & Economics at the University of Michigan.
 
-My research interests are in labor economics, urban economics, and the economics of education. I study how public policy affects economic inequality, educational outcomes, and political identity among children and young adults. 
+My research interests are in labor economics, urban economics, and the economics of education. I study how public policy affects socioeconomic inequality and educational outcomes among children and young adults. 
 
 I am a National Science Foundation (NSF) Graduate Research Fellow and an Institute of Education Sciences (IES) Pre-Doctoral Fellow.
 
