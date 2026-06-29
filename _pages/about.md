@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a 5th-year PhD student in Public Policy & Economics at the University of Michigan.
+Welcome! I am a 5th-year PhD candidate in Public Policy & Economics at the University of Michigan.
 
 My research interests are in labor economics, urban economics, and the economics of education. I study how public policy affects economic inequality and educational outcomes among children and young adults. 
 
