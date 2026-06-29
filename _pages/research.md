@@ -119,14 +119,6 @@ author_profile: true
 </div>
 
 <div class="paper-card paper-card--wip">
-<p><strong>Peer Effects on Low-Income College Student Expectations and Achievement</strong> <span class="coauthors">with Nikhil Rao</span></p>
-<details class="paper-abstract">
-<summary>Abstract</summary>
-<div class="paper-abstract__body">In this paper we examine how peers' socio-economic backgrounds affect the educational outcomes, experiences, and human capital investment decisions of low-income college students. Using random assignment of first-year roommates and administrative student records, we find that low-income first-year students randomly paired with very high-income roommates perform worse in terms of GPA than low-income students randomly paired with other types of roommates, even after two years in college. To understand more about these patterns, we developed and piloted a survey of first-year undergraduate students. We find that low-income students spend relatively little time with their randomly assigned high-income roommates and are less likely to report that the roommate has helped them socially, academically, or with their career goals. Going forward, we are expanding the survey to further investigate mechanisms.</div>
-</details>
-</div>
-
-<div class="paper-card paper-card--wip">
 <p><strong>Institutional Variation in Child Maltreatment Reporting</strong> <span class="coauthors">with E. Jason Baron, Brian A. Jacob, Joseph Doyle, Maria Fitzpatrick, and Joseph Ryan</span></p>
 </div>
 
