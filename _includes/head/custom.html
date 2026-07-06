@@ -41,17 +41,30 @@ html, body {
   font-family: 'Spectral', Georgia, serif;
   color: #2d3748;
 }
+/* Remove leftover sticky-footer padding that created dead space below footer */
+body { padding-bottom: 0 !important; }
 /* Footer */
 .page__footer {
   background-color: #f9f7f4 !important;
   position: relative !important;
   bottom: auto !important;
   border-top: 1px solid #e2e8f0 !important;
+  margin-top: 1em !important;
 }
 .page__footer footer {
   background-color: #f9f7f4 !important;
-  margin-top: 0.5em !important;
-  padding: 0 1em 0.75em !important;
+  margin-top: 0 !important;
+  padding: 0.5em 1em 0.6em !important;
+}
+.page__footer-follow {
+  margin: 0 !important;
+}
+.page__footer-follow ul {
+  margin: 0 !important;
+}
+.page__footer-follow li {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
 }
 .page__footer-follow li,
 .page__footer-follow a {
@@ -65,6 +78,7 @@ html, body {
   font-size: 0.72em !important;
   color: #a0aec0 !important;
   font-family: 'Spectral', Georgia, serif !important;
+  margin-top: 0.15em !important;
 }
 .page__footer a { color: #a0aec0 !important; }
 .page__footer a:hover { color: #718096 !important; }
