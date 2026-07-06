@@ -41,15 +41,23 @@ html, body {
   font-family: 'Spectral', Georgia, serif;
   color: #2d3748;
 }
-/* Remove leftover sticky-footer padding that created dead space below footer */
-body { padding-bottom: 0 !important; }
+/* Proper sticky footer: pin footer to viewport bottom on short pages,
+   flow naturally on long pages. Replaces the theme's absolute-position hack. */
+body {
+  padding-bottom: 0 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  min-height: 100vh !important;
+}
+#main { flex: 1 0 auto !important; }
 /* Footer */
 .page__footer {
+  flex-shrink: 0 !important;
   background-color: #f9f7f4 !important;
   position: relative !important;
   bottom: auto !important;
   border-top: 1px solid #e2e8f0 !important;
-  margin-top: 1em !important;
+  margin-top: 1.5em !important;
 }
 .page__footer footer {
   background-color: #f9f7f4 !important;
