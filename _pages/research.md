@@ -41,6 +41,17 @@ author_profile: true
 .paper-link:visited { color: #fff; }
 .paper-link:hover { color: #fff; opacity: 0.82; text-decoration: none; }
 .paper-link--draft { background: #718096; }
+.paper-title-link,
+.paper-title-link:visited {
+  color: #1a2a4a;
+  text-decoration: underline;
+  text-decoration-color: #a0aec0;
+  text-underline-offset: 2px;
+}
+.paper-title-link:hover {
+  color: #2b6cb0;
+  text-decoration-color: #2b6cb0;
+}
 .award-badges { margin: 3px 0 7px; }
 .award-badge {
   display: inline-block;
@@ -78,9 +89,8 @@ author_profile: true
 ## Recent Publications
 
 <div class="paper-card">
-<p><strong>Racial differences in parent response to COVID schooling policies</strong> <span class="coauthors">with Brian A. Jacob</span><br>
-<span class="journal-name">Proceedings of the National Academy of Sciences</span>, 2024. NBER Working Paper #31765.
-<a href="https://micah-baum.github.io/files/baum-jacob-pnas-2024.pdf" target="_blank" class="paper-link">PDF</a></p>
+<p><a href="https://micah-baum.github.io/files/baum-jacob-pnas-2024.pdf" target="_blank" class="paper-title-link"><strong>Racial differences in parent response to COVID schooling policies</strong></a> <span class="coauthors">with Brian A. Jacob</span><br>
+<span class="journal-name">Proceedings of the National Academy of Sciences</span>, 2024. NBER Working Paper #31765.</p>
 <details class="paper-abstract">
 <summary>Abstract</summary>
 <div class="paper-abstract__body">This paper examines whether school COVID-19 policies influenced enrollment differently by student age and race/ethnicity. Unlike much prior research, we i) analyze enrollments for virtually the entire U.S. public school population for both the 2020–2021 and 2021–2022 school years, ii) compare enrollment trends within districts in order to isolate subgroup heterogeneity from district characteristics, and iii) account for district selection into preferred learning modes. Analyzing data on over 9,000 districts that serve more than 90% of public school students in the United States, we find enrollment responses to COVID policies differed notably. We find that White enrollments declined more than Black, Hispanic, and Asian enrollments in districts that started the 2020–2021 school year virtually, but in districts that started in-person the reverse was true: Non-White enrollments declined more than White enrollments. Moreover, Black, Hispanic, and Asian families responded more than White families to higher COVID-19 death rates in the months preceding the start of the 2021 school year. In 2021–2022, enrollment differences by the previous year's learning mode persisted. Racial/ethnic differences did not vary by whether the district required masking in classrooms. These findings are consistent with the greater risk faced by communities of color during the pandemic and demonstrate an additional source of disparate impact from COVID policies.</div>
@@ -88,9 +98,8 @@ author_profile: true
 </div>
 
 <div class="paper-card">
-<p><strong>Forging a path to college persistence: An experimental evaluation of the Detroit Promise Path program</strong> <span class="coauthors">with Stacey L. Brockman, Jasmina Camo-Biogradlija, Alyssa Ratledge, Rebekah O'Donoghue, and Brian A. Jacob</span><br>
-<span class="journal-name">Educational Evaluation and Policy Analysis</span>, 2024.
-<a href="http://micah-baum.github.io/files/brockman-et-al-eepa-2024.pdf" target="_blank" class="paper-link">PDF</a></p>
+<p><a href="http://micah-baum.github.io/files/brockman-et-al-eepa-2024.pdf" target="_blank" class="paper-title-link"><strong>Forging a path to college persistence: An experimental evaluation of the Detroit Promise Path program</strong></a> <span class="coauthors">with Stacey L. Brockman, Jasmina Camo-Biogradlija, Alyssa Ratledge, Rebekah O'Donoghue, and Brian A. Jacob</span><br>
+<span class="journal-name">Educational Evaluation and Policy Analysis</span>, 2024.</p>
 <details class="paper-abstract">
 <summary>Abstract</summary>
 <div class="paper-abstract__body">Detroit students who obtain a college degree overcome many obstacles to do so. This article reports the results of a randomized evaluation of a program meant to provide support to low-income community college students. The Detroit Promise Path program was designed to complement an existing College Promise scholarship, providing students with coaching, summer engagement, and financial incentives. The evaluation found that students offered the program enrolled in more semesters and earned more credits compared with those offered the scholarship alone. However, at the 3-year mark, there were no discernable impacts on degrees earned. This article examines systemic barriers to degree completion and offers lessons for the design of interventions to increase equity in postsecondary attainment.</div>
@@ -110,8 +119,8 @@ author_profile: true
 </div>
 
 <div class="paper-card paper-card--wip">
-<p><strong>Do Faculty Affect Student Partisanship?</strong> <span class="coauthors">with Joaqu&iacute;n Endara and Annaliese Paulson</span><br>
-<span class="journal-name">Submitted.</span> <a href="https://micah-baum.github.io/files/baum-endara-paulson-partisanship-2026.pdf" target="_blank" class="paper-link paper-link--draft">Draft. </a></p>
+<p><a href="https://micah-baum.github.io/files/baum-endara-paulson-partisanship-2026.pdf" target="_blank" class="paper-title-link"><strong>Do Faculty Affect Student Partisanship?</strong></a> <span class="coauthors">with Joaqu&iacute;n Endara and Annaliese Paulson</span><br>
+<span class="journal-name">Submitted.</span></p>
 <details class="paper-abstract">
 <summary>Abstract</summary>
 <div class="paper-abstract__body">We study whether Democratic college professors make their students more liberal. We link voter data to salary records from 33 state flagships and show that faculty skew Democratic, especially in the humanities and social sciences. We then use student transcripts from one flagship to estimate causal effects. Students become more liberal during college regardless of major and sort toward ideologically similar instructors. Exploiting plausibly random variation in when instructors teach courses, we find no effect of faculty partisanship on student partisanship. Text analysis shows exposure to liberal topics reflects student demand rather than instructor supply, leaving little room for indoctrination. </div>
