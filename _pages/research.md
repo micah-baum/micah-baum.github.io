@@ -79,7 +79,7 @@ author_profile: true
 
 <div class="paper-card">
 <p><strong>Racial differences in parent response to COVID schooling policies</strong> <span class="coauthors">with Brian A. Jacob</span><br>
-<span class="journal-name">Proceedings of the National Academy of Sciences</span>, 2024. NBER WP #31765.
+<span class="journal-name">Proceedings of the National Academy of Sciences</span>, 2024. NBER Working Paper #31765.
 <a href="https://micah-baum.github.io/files/baum-jacob-pnas-2024.pdf" target="_blank" class="paper-link">PDF</a></p>
 <details class="paper-abstract">
 <summary>Abstract</summary>
