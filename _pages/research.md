@@ -86,7 +86,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Selected Publications
+## Recent Publications
 
 <div class="paper-card">
 <p><a href="https://micah-baum.github.io/files/baum-jacob-pnas-2024.pdf" target="_blank" class="paper-title-link"><strong>Racial differences in parent response to COVID schooling policies</strong></a> <span class="coauthors">with Brian A. Jacob</span><br>
@@ -103,15 +103,6 @@ author_profile: true
 <details class="paper-abstract">
 <summary>Abstract</summary>
 <div class="paper-abstract__body">Detroit students who obtain a college degree overcome many obstacles to do so. This article reports the results of a randomized evaluation of a program meant to provide support to low-income community college students. The Detroit Promise Path program was designed to complement an existing College Promise scholarship, providing students with coaching, summer engagement, and financial incentives. The evaluation found that students offered the program enrolled in more semesters and earned more credits compared with those offered the scholarship alone. However, at the 3-year mark, there were no discernable impacts on degrees earned. This article examines systemic barriers to degree completion and offers lessons for the design of interventions to increase equity in postsecondary attainment.</div>
-</details>
-</div>
-
-<div class="paper-card">
-<p><a href="https://micah-baum.github.io/files/nicholas-done-baum-2018-lifetime-job-demands.pdf" target="_blank" class="paper-title-link"><strong>Lifetime job demands and later life disability</strong></a> <span class="coauthors">with Lauren Hersch Nicholas and Nicolae Done. </span><br>
-<span class="journal-name">Journal of the Economics of Ageing</span>, 2018.</p>
-<details class="paper-abstract">
-<summary>Abstract</summary>
-<div class="paper-abstract__body">Occupational characteristics may improve or harm health later in life. Previous research, largely based on limited exposure periods, reached mixed conclusions. We use Health and Retirement Study data linked to the Department of Labor’s O*Net job classification system to examine the relationship between lifetime exposure to occupational demands and disability later in life. We consistently find an association between non-routine cognitive demands and lower rates of Social Security Disability Insurance (SSDI) receipt and work-limiting health conditions. Routine manual demands are associated with moderately worse health and increased SSDI receipt in most lifetime specifications. These results are robust to various specifications of occupational demand measures and controlling for transitions between jobs of different levels of occupational intensity. We show that failure to account for job characteristic exposure early in a worker’s tenure obscures the relationship between physical job demands and disability later in life. While characteristics of jobs worked at ages 30 and 55 are both predictive of later-life health outcomes, early-life job characteristics frequently dominate in models containing early and late exposures.</div>
 </details>
 </div>
 
@@ -141,5 +132,5 @@ author_profile: true
 </div>
 
 
-For additional information, including a full list of pre-doctoral publications, see my <a href="https://micah-baum.github.io/files/baum_cv.pdf" target="_blank">CV</a> or my <a href="https://scholar.google.com/citations?user=xFVVMNoAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
+For additional information, including a list of pre-doctoral publications, see my <a href="https://micah-baum.github.io/files/baum_cv.pdf" target="_blank">CV</a> or my <a href="https://scholar.google.com/citations?user=xFVVMNoAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
 
