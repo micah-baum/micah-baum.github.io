@@ -65,18 +65,13 @@ author_profile: true
   text-underline-offset: 2px;
 }
 .paper-media a:hover { color: #2b6cb0; text-decoration-color: #2b6cb0; }
-.award-badges { margin: 3px 0 7px; }
-.award-badge {
-  display: inline-block;
-  background: #ebf8ff;
-  color: #2c5282;
-  border: 1px solid #bee3f8;
-  border-radius: 10px;
+.paper-awards {
   font-family: 'Spectral', Georgia, serif;
-  font-size: 78%;
-  padding: 1px 8px;
-  margin: 2px 3px 2px 0;
+  font-size: 80%;
+  color: #718096;
+  margin-top: 6px;
 }
+.paper-awards .paper-awards__label { font-style: italic; color: #1a4a7a; }
 .paper-abstract > summary {
   cursor: pointer;
   font-family: 'Spectral', Georgia, serif;
@@ -123,13 +118,13 @@ author_profile: true
 ## Work in Progress
 
 <div class="paper-card paper-card--wip">
-<p><strong>When Opportunity Moves to You: Housing Deregulation and the Distribution of Child Outcomes</strong></p>
-<div class="award-badges"><span class="award-badge">Best Paper Honorable Mention, 2026 AREUEA National Conference</span> <span class="award-badge">2025 Sarri Family Fellowship</span> <span class="award-badge">2024 Peter Eckstein Prize for Interdisciplinary Research</span> <span class="award-badge">2024 Outstanding Third Year Paper Award</span></div>
-<span class="paper-link paper-link--draft" style="cursor:default; background:#a0aec0; font-style:italic;"><em>Job Market Paper. Draft Coming Soon!</em></span>
+<p><strong>When Opportunity Moves to You: Housing Deregulation and the Distribution of Child Outcomes</strong><br>
+<span class="journal-name">Job Market Paper.</span> Draft coming soon.</p>
 <details class="paper-abstract">
 <summary>Abstract</summary>
 <div class="paper-abstract__body"> A large literature documents the economic benefits of moving children to low-poverty neighborhoods. However, it is not clear if children will benefit when their current neighborhood improves around them, especially for households paying market rents. I study how neighborhood revitalization affects incumbent children, focusing on a 1998 Houston housing reform that incentivized building single-family homes downtown. The reform increased median household incomes by ten percent and rents by seven percent as affluent, college-educated households moved into these homes. Using administrative data from the U.S. Census Bureau, I examine impacts on children's long-run human capital attainment, economic self-sufficiency, and criminal justice involvement. Renters moved out of revitalized areas to avoid higher rents, meaning their children grew up in similar neighborhoods as untreated individuals. In contrast, homeowner children lived in better neighborhoods and parent home equity increased. Young renter children had worse labor market outcomes, suggestive of disruption costs, while owner children attained more education and economic self-sufficiency. Owner children were also charged with crimes at higher rates, consistent with increased policing in gentrified areas. The reform improved incumbent well-being on average, but large losses for renters mean that Pareto-improving transfers are likely infeasible. These findings highlight the trade-offs faced by policymakers aiming to revitalize urban neighborhoods. </div>
 </details>
+<div class="paper-awards"><span class="paper-awards__label">Awards:</span> Best Paper Honorable Mention, 2026 AREUEA National Conference &middot; 2025 Sarri Family Fellowship &middot; 2024 Peter Eckstein Prize for Interdisciplinary Research &middot; 2024 Outstanding Third Year Paper Award</div>
 </div>
 
 <div class="paper-card paper-card--wip">
