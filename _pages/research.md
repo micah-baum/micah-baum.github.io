@@ -16,7 +16,7 @@ author_profile: true
 }
 .paper-card p {
   margin-top: 0;
-  margin-bottom: 0.35em;
+  margin-bottom: 0.15em;
 }
 .journal-name {
   font-style: italic;
@@ -77,7 +77,7 @@ author_profile: true
   font-family: 'Spectral', Georgia, serif;
   font-size: 88%;
   color: #2b6cb0;
-  margin-top: 7px;
+  margin-top: 1px;
   list-style: none;
 }
 .paper-abstract > summary::-webkit-details-marker { display: none; }
