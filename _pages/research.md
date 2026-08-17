@@ -138,7 +138,7 @@ author_profile: true
 </div>
 
 <div class="paper-card paper-card--wip">
-<p><a href="https://micah-baum.github.io/files/baron-baum-et-al-nber-w35619-2026.pdf" target="_blank" class="paper-title-link"><strong>Institutional Variation in Child Maltreatment Reporting</strong> <span class="coauthors">with E. Jason Baron, Joseph Doyle, Maria Fitzpatrick, Brian A. Jacob, and Joseph Ryan</span><br>
+<p><a href="https://micah-baum.github.io/files/baron-baum-et-al-nber-w35619-2026.pdf" target="_blank" class="paper-title-link"><strong>Institutional Variation in Child Maltreatment Reporting</strong></a> <span class="coauthors">with E. Jason Baron, Joseph Doyle, Maria Fitzpatrick, Brian A. Jacob, and Joseph Ryan</span><br>
 <span class="journal-name">Submitted.</span> NBER Working Paper #35619. </p>
 <details class="paper-abstract">
 <summary>Abstract</summary>
