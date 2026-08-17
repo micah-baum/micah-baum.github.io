@@ -138,9 +138,13 @@ author_profile: true
 </div>
 
 <div class="paper-card paper-card--wip">
-<p><strong>Institutional Variation in Child Maltreatment Reporting</strong> <span class="coauthors">with E. Jason Baron, Brian A. Jacob, Joseph Doyle, Maria Fitzpatrick, and Joseph Ryan</span></p>
+<p><a href="https://micah-baum.github.io/files/baron-baum-et-al-nber-w35619-2026.pdf" target="_blank" class="paper-title-link"><strong>Institutional Variation in Child Maltreatment Reporting</strong> <span class="coauthors">with E. Jason Baron, Joseph Doyle, Maria Fitzpatrick, Brian A. Jacob, and Joseph Ryan</span><br>
+<span class="journal-name">Submitted.</span> NBER Working Paper #35619. </p>
+<details class="paper-abstract">
+<summary>Abstract</summary>
+<div class="paper-abstract__body">Involvement with the child welfare system varies dramatically across places. While some of this variation may reflect differences in underlying maltreatment risk, it may also result from differences in institutional responses to similar circumstances. To disentangle these explanations, we study Michigan public school data linked to Child Protective Services reports from 2017–2024. School-level reporting rates range from virtually none to more than half of students reported between kindergarten and fifth grade. We estimate school-specific reporting tendencies using value-added methods and document substantial variation in reporting behavior after accounting for differences in student risk. Using student movers, we show that these estimates are forecast- unbiased. Our estimates imply that school-specific reporting practices account for roughly 40 percent of the variation in reporting rates across schools. We then estimate a structural model that decomposes reporting practices into diagnostic skill and preferences. Differences in skill explain more than twice as much variation as differences in preferences, and higher-reporting schools tend to be more skilled at identifying high-risk cases. Counterfactual simulations imply that improving detection skill would yield significant welfare gains, while recent policy proposals aimed at reducing or equalizing reporting rates generally lower welfare by increasing the number of high- risk cases that go unreported. </div>
+</details>
 </div>
-
 
 For additional information, including a list of pre-doctoral publications, see my <a href="https://micah-baum.github.io/files/baum_cv.pdf" target="_blank">CV</a> or my <a href="https://scholar.google.com/citations?user=xFVVMNoAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
 
