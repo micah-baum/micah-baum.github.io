@@ -46,7 +46,10 @@ $type-size-8                : 0.625em;  // ~10px
 $masthead-height            : 70px;
 
 /* Sidebar properties */
-$sidebar-screen-min-width   : 1024px;
+/* Must match $x-large (1280px): below that, #main is capped at 925px, but a
+   position:fixed sidebar sizes its % width against the viewport instead of
+   #main, so it outgrows its column and overlaps the text. */
+$sidebar-screen-min-width   : 1280px;
 $sidebar-link-max-width     : 250px;
 
 
