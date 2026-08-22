@@ -8,7 +8,7 @@ redirect_from:
 
 Welcome! I am a 5th-year PhD candidate in Public Policy & Economics at the University of Michigan.
 
-My research interests are in labor economics, urban economics, and the economics of education. I study how neighborhoods and institutions affect economic inequality, educational outcomes, and children's well-being. 
+I research topics in labor economics, urban economics, and the economics of education. I study how neighborhoods and institutions affect economic inequality, educational outcomes, and children's well-being. 
 
 I am a National Science Foundation (NSF) Graduate Research Fellow and an Institute of Education Sciences (IES) Pre-Doctoral Fellow.
 
