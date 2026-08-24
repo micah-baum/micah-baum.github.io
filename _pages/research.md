@@ -134,7 +134,7 @@ author_profile: true
 <summary>Abstract</summary>
 <div class="paper-abstract__body">We study whether Democratic college professors make their students more liberal. We link voter data to salary records from 33 state flagships and show that faculty skew Democratic, especially in the humanities and social sciences. We then use student transcripts from one flagship to estimate causal effects. Students become more liberal during college regardless of major and sort toward ideologically similar instructors. Exploiting plausibly random variation in when instructors teach courses, we find no effect of faculty partisanship on student partisanship. Text analysis shows exposure to liberal topics reflects student demand rather than instructor supply, leaving little room for indoctrination. </div>
 </details>
-<div class="paper-media">Media: <a href="https://marginalrevolution.com/marginalrevolution/2026/08/do-faculty-affect-student-partisanship.html" target="_blank">Marginal Revolution</a></div>
+<div class="paper-media">Media: <a href="https://marginalrevolution.com/marginalrevolution/2026/08/do-faculty-affect-student-partisanship.html" target="_blank">Marginal Revolution</a> &middot; <a href="https://www.chronicle.com/newsletter/daily-briefing/2026-08-24" target="_blank">Chronicle of Higher Education</a></div>
 </div>
 
 <div class="paper-card paper-card--wip">
