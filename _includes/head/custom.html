@@ -175,24 +175,27 @@ a:hover {
 .author__urls a:hover {
   color: #1a4a7a;
 }
-/* Remove the narrow-screen "Follow" toggle and render the author links inline
-   at every width (below 925px the theme hides them behind that button and
-   styles them as an absolutely-positioned dropdown). */
+/* Author links: hide entirely on narrow screens (no "Follow" toggle, no
+   dropdown). They reappear at 925px, where the sidebar becomes a real column
+   and the theme lays them out inline. */
 .author__urls-wrapper button { display: none !important; }
-.author__urls-wrapper { display: block !important; }
-.author__urls {
-  display: block !important;
-  position: relative !important;
-  right: auto !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  border: 0 !important;
-  background: transparent !important;
-  box-shadow: none !important;
-  z-index: auto !important;
+.author__urls-wrapper { display: none !important; }
+@media screen and (min-width: 925px) {
+  .author__urls-wrapper { display: block !important; }
+  .author__urls {
+    display: block !important;
+    position: relative !important;
+    right: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    z-index: auto !important;
+  }
+  .author__urls:before,
+  .author__urls:after { display: none !important; }
 }
-.author__urls:before,
-.author__urls:after { display: none !important; }
 /* Page title */
 .page__title {
   font-family: 'Spectral', Georgia, serif;
