@@ -233,7 +233,9 @@ a:hover {
    max-width stops it ballooning near the top of this range, where a full-width
    square would be ~590px tall. */
 @media screen and (max-width: 619px) {
-  .sidebar { margin-bottom: 1em !important; }
+  /* Stacked here, so the content sits directly under the photo and needs
+     more air than the 1em that suited the two-column layout. */
+  .sidebar { margin-bottom: 2em !important; }
   .author__avatar { margin: 0 !important; }
   .author__avatar img {
     display: block !important;
