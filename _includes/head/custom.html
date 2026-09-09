@@ -185,6 +185,9 @@ a:hover {
 @media screen and (max-width: 860px)  { :root { --side-col: 210px; --col-gap: 28px; } }
 
 .author__urls-wrapper, .author__urls-wrapper button { display: none !important; }
+/* Name + title under the photo: both repeat elsewhere on the page
+   (the name is in the masthead, the title opens the intro text). */
+.sidebar .author__content { display: none !important; }
 .author__avatar { width: 100% !important; display: block !important; }
 .author__avatar img {
   width: 100% !important; max-width: var(--side-col) !important; height: auto !important;
@@ -223,14 +226,9 @@ a:hover {
   .greedy-nav .visible-links li:not(.masthead__menu-item--lg) a { font-size: 1.02em; margin-right: 22px !important; }
 }
 /* ── Phone layout (below the two-column breakpoint) ──
-   Drop the caption under the photo: the name already appears in the masthead
-   and the title just restates the opening line. Also clears the indent the
-   theme's mobile table layout puts on .author__content, and keeps the photo
-   small enough that the opening text lands above the fold on a 375px phone. */
+   Keep the photo small enough that the opening text lands above the fold on a
+   375px phone; a full-width photo leaves zero readable lines on that screen. */
 @media screen and (max-width: 619px) {
-  .author__content { padding-left: 0 !important; padding-right: 0 !important; }
-  .sidebar .author__name,
-  .sidebar .author__bio { display: none !important; }
   .sidebar { margin-bottom: 1.5em !important; }
   .author__avatar { margin: 0 !important; }
   .author__avatar img { max-width: 150px !important; }
