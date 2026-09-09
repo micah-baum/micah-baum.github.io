@@ -249,6 +249,14 @@ a:hover {
   .greedy-nav .visible-links li:not(.masthead__menu-item--lg) { display: none !important; }
   .greedy-nav button { display: block !important; }
 }
+/* With the page heading hidden, the first element in the content column keeps
+   its own top margin (h2 carries 45px) and sits lower than the photo. Zero it
+   so the column starts flush. The second selector handles pages whose first
+   child is an inline <style> block, as the research page's is. */
+.archive > :first-child,
+.archive > style:first-child + *,
+.page__content > :first-child,
+.page__content > style:first-child + * { margin-top: 0 !important; }
 /* Page title */
 .page__title {
   font-family: 'Spectral', Georgia, serif;
