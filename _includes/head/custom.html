@@ -175,26 +175,70 @@ a:hover {
 .author__urls a:hover {
   color: #1a4a7a;
 }
-/* Author links: hide entirely on narrow screens (no "Follow" toggle, no
-   dropdown). They reappear at 925px, where the sidebar becomes a real column
-   and the theme lays them out inline. */
+/* Sidebar links removed entirely (name + title only). */
+.author__urls-wrapper,
 .author__urls-wrapper button { display: none !important; }
-.author__urls-wrapper { display: none !important; }
+
+/* Large portrait photo. Source is 4:5 so object-fit has nothing to crop. */
+.author__avatar { width: 100% !important; display: block !important; }
+.author__avatar img {
+  width: 100% !important;
+  max-width: 300px !important;
+  height: auto !important;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border-radius: 3px !important;
+}
+
+/* Two-column layout. Replaces the theme's Susy float grid with flex so the
+   masthead and the body share identical columns at any width: the name sits
+   over the photo, the nav links over the text. */
 @media screen and (min-width: 925px) {
-  .author__urls-wrapper { display: block !important; }
-  .author__urls {
-    display: block !important;
-    position: relative !important;
-    right: auto !important;
+  #main { display: flex !important; gap: 44px; }
+  .sidebar {
+    width: 300px !important;
+    flex: 0 0 300px !important;
+    max-width: none !important;
+    float: none !important;
     margin: 0 !important;
     padding: 0 !important;
-    border: 0 !important;
-    background: transparent !important;
-    box-shadow: none !important;
-    z-index: auto !important;
+    position: sticky !important;
+    top: 88px;
+    height: auto !important;
+    overflow: visible !important;
+    opacity: 1 !important;
   }
-  .author__urls:before,
-  .author__urls:after { display: none !important; }
+  #main > .page,
+  #main > .archive,
+  #main > article.page {
+    flex: 1 1 auto !important;
+    width: auto !important;
+    min-width: 0 !important;
+    float: none !important;
+    margin: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  /* Keep the link list shrink-wrapped: greedy-nav measures its width to decide
+     what to collapse into the hamburger, so a full-width flex row hides
+     everything. inline-flex shrink-wraps the way the theme's table did. */
+  .greedy-nav .visible-links { display: inline-flex !important; align-items: baseline; }
+  .greedy-nav .visible-links li { display: block !important; }
+  .greedy-nav .visible-links .masthead__menu-item--lg {
+    flex: 0 0 300px !important;
+    width: 300px !important;
+    padding-right: 0 !important;
+    margin-right: 44px !important;
+  }
+  .greedy-nav .visible-links .masthead__menu-item--lg a {
+    margin-left: 0 !important;
+    font-size: 1.45em;
+  }
+  .greedy-nav .visible-links li:not(.masthead__menu-item--lg) a {
+    margin-left: 0 !important;
+    margin-right: 34px !important;
+    font-size: 1.12em;
+  }
 }
 /* Page title */
 .page__title {
