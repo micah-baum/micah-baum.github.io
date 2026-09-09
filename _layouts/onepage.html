@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="robots" content="noindex">
   <title>{{ site.author.name }}</title>
+  <link rel="canonical" href="{{ site.url }}/">
   <meta name="description" content="{{ site.description }}">
   <meta name="theme-color" content="#f9f7f4">
   <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
@@ -85,7 +85,6 @@ p.note{font-size:.9em;color:#6b7280;margin-top:1.6em}
 </head>
 <body>
 
-{% assign p_intro = site.pages | where: "path", "_pages/about.md"    | first %}
 {% assign p_res   = site.pages | where: "path", "_pages/research.md" | first %}
 {% assign p_about = site.pages | where: "path", "_pages/about-me.md" | first %}
 
@@ -101,7 +100,7 @@ p.note{font-size:.9em;color:#6b7280;margin-top:1.6em}
     </div>
   </div>
   <div class="col-main content">
-    <section id="intro">{{ p_intro.content | markdownify }}</section>
+    <section id="intro">{% include sections/intro.html %}</section>
     <section id="research"><h2 class="section">Research</h2>{{ p_res.content | markdownify }}</section>
     <section id="about"><h2 class="section">About Me</h2>{{ p_about.content | markdownify }}</section>
   </div>

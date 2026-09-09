@@ -2,6 +2,7 @@
 layout: archive
 title: "Research"
 hide_title: true
+sitemap: false
 permalink: /research
 author_profile: true
 ---
