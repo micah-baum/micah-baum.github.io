@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>{{ site.author.name }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="theme-color" content="#f9f7f4">
+  <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+*,*:before,*:after{box-sizing:border-box}
+body{margin:0;background:#f9f7f4;font-family:'Spectral',Georgia,serif;color:#2d3748;
+     display:flex;flex-direction:column;min-height:100vh}
+:root{--side-col:300px;--col-gap:44px}
+@media (max-width:1099px){:root{--side-col:260px;--col-gap:36px}}
+@media (max-width:860px){:root{--side-col:210px;--col-gap:28px}}
+
+.row{max-width:1280px;margin:0 auto;padding:0 1em;display:flex;gap:var(--col-gap);align-items:flex-start}
+.masthead .row{align-items:baseline;padding-top:20px;padding-bottom:18px}
+.col-side{width:var(--side-col);flex:0 0 var(--side-col)}
+.col-main{flex:1;min-width:0}
+.brand{font-weight:600;color:#1a2a4a;font-size:1.45em;text-decoration:none}
+
+#main{flex:1 0 auto;width:100%}
+.col-side img{display:block;width:100%;max-width:var(--side-col);height:auto;
+  aspect-ratio:4/5;object-fit:cover;border-radius:3px}
+.sticky-photo{position:sticky;top:28px}
+.content p{line-height:1.78;font-size:1.02em;margin:0 0 1.3em}
+.content > section:first-of-type > :first-child{margin-top:0}
+section + section{margin-top:3.2em}
+h2.section{font-size:1.42em;color:#1a2a4a;margin:0 0 .75em;padding-bottom:.32em;
+  border-bottom:1px solid #e6e2dc}
+h3{font-size:1.02em;letter-spacing:.06em;text-transform:uppercase;color:#7b8494;
+  font-weight:600;margin:2em 0 .9em}
+section > h3:first-of-type{margin-top:0}
+
+/* plain inline links in place of the pill buttons */
+a.plain{color:#2b6cb0;text-decoration:underline;text-decoration-color:#bcd0e6;
+  text-underline-offset:2px}
+a.plain:hover{text-decoration-color:#2b6cb0}
+.sep{color:#c3c9d2}
+p.note{font-size:.9em;color:#6b7280;margin-top:1.6em}
+
+/* papers: no coloured bars — separate entries with space and a hairline,
+   and let the bold title carry the emphasis */
+.paper-card{border-left:none !important;padding-left:0 !important;
+  margin:0 0 1.5em !important;padding-bottom:1.5em;border-bottom:1px solid #eceae5}
+.paper-card:last-of-type{border-bottom:none;padding-bottom:0}
+.paper-card--wip{border-left:none !important}
+.paper-title-link{font-size:1.05em}
+.paper-card p{margin-bottom:.2em !important}
+
+.page__footer{flex-shrink:0;border-top:1px solid #e2e8f0;margin-top:3em}
+.page__footer .row{padding:.6em 1em 1.4em;display:block;font-size:.72em;color:#c0c8d2}
+
+@media screen and (max-width:619px){
+  .row{display:block}
+  .col-side{width:auto;flex:none}
+  .col-side img{max-width:430px;margin:0 auto 2em;aspect-ratio:1/1;object-position:center 22%}
+  .sticky-photo{position:static}
+}
+
+/* The intro's CV / Google Scholar links carry inline pill styling from
+   about.md; render them as plain text links here without touching that page. */
+#intro a[style]{
+  display:inline !important; padding:0 !important; margin:0 !important;
+  border:0 !important; border-radius:0 !important; background:none !important;
+  color:#2b6cb0 !important; text-decoration:underline !important;
+  text-decoration-color:#bcd0e6 !important; text-underline-offset:2px;
+}
+#intro a[style] + a[style]{ margin-left:.9em !important; }
+
+/* research.md's "##" headings arrive as h2; style them as quiet section labels
+   so they do not compete with the "Research" heading above them. */
+#research h2:not(.section){
+  font-size:1.02em; letter-spacing:.06em; text-transform:uppercase;
+  color:#7b8494; font-weight:600; margin:2em 0 .9em; padding:0; border:0;
+}
+#research style + h2{ margin-top:0; }
+</style>
+</head>
+<body>
+
+{% assign p_intro = site.pages | where: "path", "_pages/about.md"    | first %}
+{% assign p_res   = site.pages | where: "path", "_pages/research.md" | first %}
+{% assign p_about = site.pages | where: "path", "_pages/about-me.md" | first %}
+
+<header class="masthead"><div class="row">
+  <div class="col-side"><span class="brand">{{ site.title }}</span></div>
+  <div class="col-main"></div>
+</div></header>
+
+<div id="main"><div class="row">
+  <div class="col-side">
+    <div class="sticky-photo">
+      <img src="/images/{{ site.author.avatar }}" alt="{{ site.author.name }}">
+    </div>
+  </div>
+  <div class="col-main content">
+    <section id="intro">{{ p_intro.content | markdownify }}</section>
+    <section id="research"><h2 class="section">Research</h2>{{ p_res.content | markdownify }}</section>
+    <section id="about"><h2 class="section">About Me</h2>{{ p_about.content | markdownify }}</section>
+  </div>
+</div></div>
+
+<footer class="page__footer"><div class="row">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
+  Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;
+  <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.
+</div></footer>
+
+</body>
+</html>

@@ -93,8 +93,6 @@ author_profile: true
 }
 </style>
 
-{% include base_path %}
-
 ## Recent Publications
 
 <div class="paper-card">
