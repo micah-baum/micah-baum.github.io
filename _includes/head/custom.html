@@ -226,12 +226,25 @@ a:hover {
   .greedy-nav .visible-links li:not(.masthead__menu-item--lg) a { font-size: 1.02em; margin-right: 22px !important; }
 }
 /* ── Phone layout (below the two-column breakpoint) ──
-   Keep the photo small enough that the opening text lands above the fold on a
-   375px phone; a full-width photo leaves zero readable lines on that screen. */
+   Photo runs the full content width. Squaring it (rather than keeping the 4:5
+   portrait) is what lets the opening paragraph still clear the fold: at 375px
+   a 4:5 photo is 429px tall and pushes the text off-screen, a square one is
+   343px. object-position keeps the head framed once the crop tightens.
+   max-width stops it ballooning near the top of this range, where a full-width
+   square would be ~590px tall. */
 @media screen and (max-width: 619px) {
-  .sidebar { margin-bottom: 1.5em !important; }
+  .sidebar { margin-bottom: 1em !important; }
   .author__avatar { margin: 0 !important; }
-  .author__avatar img { max-width: 150px !important; }
+  .author__avatar img {
+    width: 100% !important;
+    max-width: 430px !important;
+    aspect-ratio: 1 / 1 !important;
+    object-fit: cover;
+    object-position: center 22%;
+  }
+  /* Masthead collapses to just the hamburger (see the nav script below). */
+  .greedy-nav .visible-links li:not(.masthead__menu-item--lg) { display: none !important; }
+  .greedy-nav button { display: block !important; }
 }
 /* Page title */
 .page__title {
@@ -248,6 +261,40 @@ a:hover {
       a.setAttribute('rel', 'noopener');
     });
   });
+</script>
+
+<!-- Phone nav: put every link in the hamburger menu.
+     The theme's greedy-nav only collapses links that do not fit, so a couple
+     stay inline on a phone. It cannot be forced with CSS: it refuses to evict
+     the site title and then recurses while the list is still too wide, so
+     padding the title into overflow hangs the page. Move the items directly
+     instead, and put them back when the window widens (greedy-nav will not
+     restore them itself once its internal breakpoint list is out of sync). -->
+<script>
+(function () {
+  var MOBILE = 620;
+  function syncNav() {
+    var nav = document.querySelector('#site-nav');
+    if (!nav) return;
+    var visible = nav.querySelector('.visible-links'),
+        hidden  = nav.querySelector('.hidden-links'),
+        button  = nav.querySelector('button');
+    if (!visible || !hidden) return;
+    if (window.innerWidth < MOBILE) {
+      var items = [].slice.call(visible.querySelectorAll('li:not(.masthead__menu-item--lg)'));
+      items.forEach(function (li, i) { hidden.insertBefore(li, hidden.children[i] || null); });
+      if (button) button.classList.remove('hidden');
+    } else {
+      [].slice.call(hidden.children).forEach(function (li) { visible.appendChild(li); });
+      if (button) button.classList.add('hidden');
+      hidden.classList.add('hidden');
+    }
+  }
+  if (document.readyState !== 'loading') syncNav();
+  document.addEventListener('DOMContentLoaded', syncNav);
+  window.addEventListener('load', function () { setTimeout(syncNav, 60); });
+  window.addEventListener('resize', function () { setTimeout(syncNav, 80); });
+})();
 </script>
 
 <!-- end custom head snippets -->
