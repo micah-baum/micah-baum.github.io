@@ -54,8 +54,9 @@ p.note{font-size:.9em;color:#6b7280;margin-top:1.6em}
 .paper-title-link{font-size:1.05em}
 .paper-card p{margin-bottom:.2em !important}
 
-.page__footer{flex-shrink:0;border-top:1px solid #e2e8f0;margin-top:3em}
-.page__footer .row{padding:.6em 1em 1.4em;display:block;font-size:.72em;color:#c0c8d2}
+.page__footer{flex-shrink:0;border-top:1px solid #efece7;margin-top:3.5em}
+.page__footer .row{padding:.7em 1em 1.5em;display:block;font-size:.68em;
+  color:#cfd4da;letter-spacing:.02em}
 
 @media screen and (max-width:619px){
   .row{display:block}
@@ -107,9 +108,7 @@ p.note{font-size:.9em;color:#6b7280;margin-top:1.6em}
 </div></div>
 
 <footer class="page__footer"><div class="row">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
-  Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;
-  <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}
 </div></footer>
 
 </body>
