@@ -7,7 +7,14 @@
   <link rel="canonical" href="{{ site.url }}/">
   <meta name="description" content="{{ site.description }}">
   <meta name="theme-color" content="#f9f7f4">
-  <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" href="/images/favicon.ico?v=m2" sizes="any">
+  <link rel="icon" type="image/png" sizes="16x16"   href="/images/favicon-16x16.png?v=m2">
+  <link rel="icon" type="image/png" sizes="32x32"   href="/images/favicon-32x32.png?v=m2">
+  <link rel="icon" type="image/png" sizes="48x48"   href="/images/favicon-48x48.png?v=m2">
+  <link rel="icon" type="image/png" sizes="96x96"   href="/images/favicon-96x96.png?v=m2">
+  <link rel="icon" type="image/png" sizes="192x192" href="/images/favicon-192x192.png?v=m2">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-180x180.png?v=m2">
+  <meta name="msapplication-TileColor" content="#00274C">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
@@ -91,7 +98,7 @@ p.note{font-size:.9em;color:#6b7280;margin-top:1.6em}
 {% assign p_about = site.pages | where: "path", "_pages/about-me.md" | first %}
 
 <header class="masthead"><div class="row">
-  <div class="col-side"><span class="brand">{{ site.title }}</span></div>
+  <div class="col-side"><span class="brand">{{ site.author.name }}</span></div>
   <div class="col-main"></div>
 </div></header>
 
