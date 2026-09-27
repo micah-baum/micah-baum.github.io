@@ -56,7 +56,7 @@ author_profile: true
 }
 .paper-media {
   font-family: 'Spectral', Georgia, serif;
-  font-size: 80%;
+  font-size: 88%;
   color: #718096;
   margin-top: 4px;
 }
@@ -69,7 +69,7 @@ author_profile: true
 .paper-media a:hover { color: #2b6cb0; text-decoration-color: #2b6cb0; }
 .paper-awards {
   font-family: 'Spectral', Georgia, serif;
-  font-size: 80%;
+  font-size: 88%;
   color: #718096;
   margin-top: 6px;
 }
@@ -125,7 +125,7 @@ author_profile: true
 <summary>Abstract</summary>
 <div class="paper-abstract__body"> A large literature documents the economic benefits of moving children to low-poverty neighborhoods. However, it is not clear if children will benefit when their current neighborhood improves around them, especially for households paying market rents. I study how neighborhood revitalization affects incumbent children, focusing on a 1998 Houston housing reform that incentivized building single-family homes downtown. The reform increased median household incomes by ten percent and rents by seven percent as affluent, college-educated households moved into these homes. Using administrative data from the U.S. Census Bureau, I examine impacts on children’s long-run human capital attainment and economic self-sufficiency. Renter households moved out of revitalized areas, meaning their children grew up in similar neighborhoods to untreated individuals. In contrast, homeowner children lived in better neighborhoods and parent home equity increased. Young renter children had worse labor market outcomes, suggestive of disruption costs, while owner children attained more education and economic self-sufficiency. Owner children were also charged with crimes at higher rates, potentially due to increased policing in gentrified areas. The reform improved incumbent well-being on average, but large losses for renters mean that Pareto-improving transfers are practically challenging. These findings highlight the trade-offs faced by policymakers aiming to revitalize urban neighborhoods. </div>
 </details>
-<div class="paper-awards"><span class="paper-awards__label">Awards:</span> Best Paper Honorable Mention, 2026 AREUEA National Conference &middot; 2025 Sarri Family Fellowship &middot; 2024 Peter Eckstein Prize for Interdisciplinary Research &middot; 2024 Outstanding Third Year Paper Award</div>
+<div class="paper-awards"><span class="paper-awards__label">Awards:</span> Best Student Paper Prize, 2026 Urban Economics Association North American Meeting &middot; Best Paper Honorable Mention, 2026 AREUEA National Conference &middot; 2025 Sarri Family Fellowship &middot; 2024 Peter Eckstein Prize for Interdisciplinary Research &middot; 2024 Outstanding Third Year Paper Award</div>
 </div>
 
 <div class="paper-card paper-card--wip">
