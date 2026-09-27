@@ -56,7 +56,7 @@ author_profile: true
 }
 .paper-media {
   font-family: 'Spectral', Georgia, serif;
-  font-size: 88%;
+  font-size: calc(1.02em * 0.84);  /* match .coauthors */
   color: #718096;
   margin-top: 4px;
 }
@@ -69,7 +69,7 @@ author_profile: true
 .paper-media a:hover { color: #2b6cb0; text-decoration-color: #2b6cb0; }
 .paper-awards {
   font-family: 'Spectral', Georgia, serif;
-  font-size: 88%;
+  font-size: calc(1.02em * 0.84);  /* match .coauthors */
   color: #718096;
   margin-top: 6px;
 }
