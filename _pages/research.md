@@ -119,7 +119,7 @@ author_profile: true
 ## Work in Progress
 
 <div class="paper-card paper-card--wip">
-<p><a href="https://micah-baum.github.io/files/baum-jmp-sep2026.pdf" target="_blank" class="paper-title-link"><strong>When Opportunity Moves to You: Housing Deregulation and the Distribution of Child Outcomes</strong></a><br>
+<p><a href="https://micah-baum.github.io/files/baum-jmp.pdf" target="_blank" class="paper-title-link"><strong>When Opportunity Moves to You: Housing Deregulation and the Distribution of Child Outcomes</strong></a><br>
 <span class="journal-name">Job Market Paper</span></p>
 <details class="paper-abstract">
 <summary>Abstract</summary>
