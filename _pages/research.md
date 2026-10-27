@@ -147,5 +147,13 @@ author_profile: true
 </details>
 </div>
 
+<div class="paper-card paper-card--wip">
+<p><strong>Peer Socioeconomic Mismatch and Student Achievement</strong> <span class="coauthors">with Nikhil Rao</span></p>
+<details class="paper-abstract">
+<summary>Abstract</summary>
+<div class="paper-abstract__body">This paper studies how exposure to peers of different socioeconomic status (SES) affects academic performance in college, using the conditional random assignment of first-year roommates and administrative records from a large Midwestern university. Random assignment to a very high SES roommate reduces first-year GPA for low SES students by 0.4 SD even though these roommates are better academically prepared, a pattern at odds with standard ability-based peer effects. This GPA reduction is not driven by other characteristics of students or their roommates. We provide suggestive evidence that these GPA reductions stem from changes in the composition of students&rsquo; friend groups, using an original survey linked to administrative records. Students randomly assigned a much higher SES roommate report a greater share of affluent friends in their social circle. These students also report that their roommates are less likely to prioritize academics or to positively influence the focal student&rsquo;s academic outcomes. Our results suggest that exposure to students from different SES backgrounds can alter social experiences in college while amplifying the barriers to achievement that low SES students often face.</div>
+</details>
+</div>
+
 For additional information, including a list of pre-doctoral publications, see my <a href="https://micah-baum.github.io/files/baum_cv.pdf" target="_blank">CV</a> or my <a href="https://scholar.google.com/citations?user=xFVVMNoAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
 
