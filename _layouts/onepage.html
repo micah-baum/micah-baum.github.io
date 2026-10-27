@@ -58,7 +58,10 @@ p.note{font-size:.9em;color:#6b7280;margin-top:1.6em}
   margin:0 0 1.5em !important;padding-bottom:1.5em;border-bottom:1px solid #eceae5}
 .paper-card:last-of-type{border-bottom:none;padding-bottom:0}
 .paper-card--wip{border-left:none !important}
-.paper-title-link{font-size:1.05em}
+/* title size, whether or not there is a draft to link to. The direct-child
+   selector only hits unlinked titles: linked ones are p > a > strong. */
+.paper-title-link,
+.paper-card p > strong{font-size:1.05em}
 .paper-card p{margin-bottom:.2em !important}
 
 .page__footer{flex-shrink:0;border-top:1px solid #efece7;margin-top:3.5em}
